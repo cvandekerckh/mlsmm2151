@@ -35,7 +35,7 @@ Enseignant : Corentin Vande Kerckhove · `corentin.vandekerckhove[at]uclouvain.b
 - [Prérequis](#-prérequis) — ce qu'il faut avant la première séance
 - [Les données](#-les-données) — le fil rouge, et pourquoi rien n'est stocké ici
 - [Évaluation](#-évaluation) — devoirs et examen
-- [Notes collectives](#-notes-collectives) — les pads de prise de notes
+- [Notes collectives](#-notes-collectives) — les pads de prise de notes, et votre dossier `students/`
 - [Utilisation des IA](#-utilisation-des-ia) — ce qui est permis, et à quelles conditions
 - [Licence](#-licence)
 
@@ -66,9 +66,10 @@ mlsmm2151/
 ├── devoirs/            Énoncés, grilles de correction, squelettes Classroom
 ├── data/               Codebooks et provenance. AUCUNE donnée, voir plus bas
 ├── examen/             Format de l'examen et matière concernée
-├── notes/              Archives des prises de notes collectives
+├── students/           Votre espace : notes collectives, exercices, à vous de l'organiser
 ├── utils/              Code partagé, dont le chargement des données
 ├── plan.md             Le plan détaillé, chapitre par chapitre
+├── CONTRIBUTING.md     Comment publier dans students/
 ├── requirements.txt
 └── README.md
 ```
@@ -191,12 +192,16 @@ Le format de l'examen et la matière concernée sont dans
 
 ## 📝 Notes collectives
 
-Chaque séance a son pad de prise de notes partagée, lié dans le calendrier
-ci-dessus. Deux volontaires prennent les notes, tout le monde peut compléter :
-liens évoqués, questions posées, commandes utiles, points restés obscurs.
+Chaque séance a son pad de prise de notes partagée, sur
+[Framapad](https://framapad.org). Un étudiant est responsable du pad de la
+séance : il le crée, en communique le lien aux autres, puis le restructure après
+la séance et le publie dans [`students/`](students/) via une pull request,
+relue par un autre étudiant. Tout le monde peut compléter : liens évoqués,
+questions posées, commandes utiles, points restés obscurs.
 
-Les pads sont archivés dans [`notes/`](notes/) après chaque séance. Le
-fonctionnement est décrit dans [`notes/README.md`](notes/README.md).
+Le dossier `students/` est le seul que vous pouvez modifier dans ce dépôt, et
+vous l'organisez comme vous voulez : notes, exercices, scripts à partager. Le
+fonctionnement est décrit dans [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 Il n'y a pas de groupe de discussion pour ce cours. Pour une question qui
 concerne tout le monde, ouvrez une

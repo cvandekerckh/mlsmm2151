@@ -1,0 +1,36 @@
+# Bloque toute pull request qui modifie un fichier en dehors de students/.
+# Publié dans le dépôt public, où cette vérification est obligatoire avant fusion.
+#
+# pull_request_target exécute la version de ce fichier présente sur main, et non
+# celle de la pull request : un étudiant ne peut donc pas désactiver la garde en
+# la modifiant dans sa propre branche. Le code de la pull request n'est jamais
+# exécuté, seule la liste des fichiers modifiés est lue.
+
+name: Garde students
+
+on:
+  pull_request_target:
+
+permissions:
+  pull-requests: read
+
+jobs:
+  garde:
+    if: github.repository == 'cvandekerckh/mlsmm2151'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier que seul students/ est modifié
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Un renommage compte deux fois : l'ancien chemin et le nouveau.
+          hors_zone=$(gh api --paginate \
+            "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" \
+            --jq '.[] | .filename, (.previous_filename // empty)' \
+            | grep -v '^students/' || true)
+          if [ -n "$hors_zone" ]; then
+            echo "::error::Cette pull request modifie des fichiers en dehors de students/. Seul ce dossier est ouvert aux contributions (voir CONTRIBUTING.md)."
+            echo "$hors_zone"
+            exit 1
+          fi
+          echo "Tout est dans students/."
