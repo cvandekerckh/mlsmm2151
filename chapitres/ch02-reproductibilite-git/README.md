@@ -13,7 +13,7 @@ Organiser un projet, gérer ses dépendances, savoir où vivent les données et 
 
 ## Prérequis
 
-Chapitre 0.
+Aucun.
 
 ## Sections du plan couvertes
 

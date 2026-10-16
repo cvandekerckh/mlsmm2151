@@ -70,7 +70,6 @@ reflète l'importance à l'examen, pas le temps passé en séance.
 
 | Chapitre | Poids | Ce qui tombe |
 |---|---|---|
-| Ch0 Python et pandas | — | Pas évalué en tant que tel |
 | Ch1 Introduction | ● | Paradigmes, cycle de vie, régression contre classification |
 | Ch2 Reproductibilité | ● | Reproductibilité, où vivent les données et pourquoi |
 | Ch3 Exploration et nettoyage | ●● | Diagnostic de qualité, manquants, aberrantes, et surtout **le raisonnement** derrière chaque traitement |

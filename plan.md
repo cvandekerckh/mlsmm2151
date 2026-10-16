@@ -6,27 +6,6 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ---
 
-## Chapitre 0 – Rappel Python et pandas *(prérequis, séance 1, jeudi 13/11 matin)*
-
-Hors partie. Ce chapitre ne fait pas partie de la matière évaluée : c'est une
-remise à niveau des prérequis, jouée en début de séance 1.
-
-#### 0.1. Le fonctionnement d'un notebook
-
-#### 0.2. Variables, types et f-strings
-
-#### 0.3. Listes et dictionnaires
-
-#### 0.4. Boucles, conditions et listes en compréhension
-
-#### 0.5. Fonctions
-
-#### 0.6. Lire un message d'erreur
-
-#### 0.7. pandas : charger, décrire, sélectionner, filtrer, agréger, tracer
-
----
-
 ## Partie I – Outils et environnement du Data Scientist
 
 ### Chapitre 1 – Introduction à la Data Science appliquée *(séance 1, jeudi 13/11 matin)*

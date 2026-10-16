@@ -79,7 +79,7 @@ mlsmm2151/
 
 | Séance | Date | Chapitres | Notes collectives | Devoir |
 |---|---|---|---|---|
-| **1** | jeu 13/11, matin | [Ch0 Python et pandas](chapitres/ch00-python-pandas-express/) · [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | *lien du pad* | D1 publié |
+| **1** | jeu 13/11, matin | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | *lien du pad* | D1 publié |
 | **2** | jeu 27/11 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | *lien du pad* | |
 | **3** | lun 01/12, matin | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | *lien du pad* | **D1 dû** · D2 publié |
 | **4** | lun 01/12, après-midi | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | *lien du pad* | |
@@ -113,12 +113,6 @@ change. Il y en a environ un toutes les dix minutes. Venez avec un ordinateur.
 
 Chaque lien ouvre directement le notebook dans **Google Colab**. Rien à
 installer.
-
-### Chapitre préalable
-
-| Chapitre | Notebooks | Séance |
-|---|---|---|
-| **Ch0** Rappel Python et pandas | [1. Python, l'essentiel](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch00-python-pandas-express/01-rappel-python.ipynb) · [2. pandas en 25 minutes](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch00-python-pandas-express/02-pandas-express.ipynb) | 1 |
 
 ### Partie I — Outils et environnement
 
@@ -158,8 +152,7 @@ Le plan détaillé, section par section, est dans [`plan.md`](plan.md).
 
 ## 🛠️ Prérequis
 
-- **Des bases en Python.** Variables, listes, boucles, fonctions. Le chapitre 0
-  remet tout cela à niveau en 45 minutes ; il ne part pas de zéro.
+- **Des bases en Python.** Variables, listes, boucles, fonctions.
 - **Un compte Google**, pour utiliser Colab. Rien à installer sur votre machine.
 - **Un compte GitHub**, pour rendre les devoirs. Créez-le avant la séance 1 :
   [github.com/signup](https://github.com/signup).
