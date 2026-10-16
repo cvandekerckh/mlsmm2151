@@ -29,7 +29,7 @@ Enseignant : Corentin Vande Kerckhove · `corentin.vandekerckhove[at]uclouvain.b
 
 ## 📚 Table des matières
 
-- [Calendrier](#-calendrier) — quel chapitre à quelle séance, et le déroulé type
+- [Calendrier](#-calendrier) — quel chapitre à quelle séance
 - [La matière, chapitre par chapitre](#-la-matière-chapitre-par-chapitre) — tous les notebooks, ouvrables dans Colab
 - [Organisation du dépôt](#-organisation-du-dépôt) — où trouver quoi
 - [Prérequis](#-prérequis) — ce qu'il faut avant la première séance
@@ -78,15 +78,15 @@ mlsmm2151/
 
 ## 📅 Calendrier
 
-| Séance | Date | Chapitres | Notes collectives | Devoir |
-|---|---|---|---|---|
-| **1** | jeu 13/11, matin | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | *lien du pad* | D1 publié |
-| **2** | jeu 27/11 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | *lien du pad* | |
-| **3** | lun 01/12, matin | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | *lien du pad* | **D1 dû** · D2 publié |
-| **4** | lun 01/12, après-midi | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | *lien du pad* | |
-| **5** | lun 15/12, matin | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | *lien du pad* | |
-| **6** | lun 15/12, après-midi | [Ch11 Clustering](chapitres/ch11-clustering/) | *lien du pad* | D3 publié |
-| **7** | jeu 18/12, matin | [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | *lien du pad* | |
+| Séance | Date | Chapitres | Devoir |
+|---|---|---|---|
+| **1** | jeu 13/11, matin | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | D1 publié |
+| **2** | jeu 27/11 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | |
+| **3** | lun 01/12, matin | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | **D1 dû** · D2 publié |
+| **4** | lun 01/12, après-midi | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | |
+| **5** | lun 15/12, matin | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | |
+| **6** | lun 15/12, après-midi | [Ch11 Clustering](chapitres/ch11-clustering/) | D3 publié |
+| **7** | jeu 18/12, matin | [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | |
 
 **Échéances des devoirs** : D1 le **1er décembre**, D2 le **20 décembre**,
 D3 le **10 janvier**. Détails dans [`devoirs/`](devoirs/).
