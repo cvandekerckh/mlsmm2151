@@ -1,4 +1,4 @@
-# MLSMM2151 — Data Science
+# MLSMM2151 — Data Science test
 
 > **Applied Data Science with Python** · Louvain School of Management, UCLouvain
 
