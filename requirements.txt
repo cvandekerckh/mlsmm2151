@@ -1,0 +1,15 @@
+# MLSMM2151 - Data Science
+# Google Colab fournit deja la plupart de ces paquets.
+# Installation locale :  pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.4
+xgboost>=2.0
+scipy>=1.11
+
+# Optionnel, uniquement pour le chapitre 10 (perceptron multicouche).
+# Deja present sur Google Colab, inutile de l'installer pour suivre le cours.
+# tensorflow>=2.15

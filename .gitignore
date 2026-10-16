@@ -1,0 +1,36 @@
+# ---------------------------------------------------------------------------
+# Donnees : rien de tout cela n'entre dans ce depot. Voir data/README.md.
+# ---------------------------------------------------------------------------
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.xls
+*.json.gz
+*.csv.gz
+*.zip
+*.db
+*.sqlite
+
+# Modeles entraines et artefacts lourds
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Notes internes de l'enseignant, hors du depot public
+evaluation.md
+MISE-EN-ROUTE.md
+
+# Systeme
+.DS_Store
+Thumbs.db
