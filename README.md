@@ -145,6 +145,13 @@ Le plan détaillé, section par section, est dans [`plan.md`](plan.md).
 - **Un compte GitHub**, pour rendre les devoirs. Créez-le avant la séance 1 :
   [github.com/signup](https://github.com/signup).
 
+**Première chose à faire en séance 1 : l'inscription.** Le lien vous est donné
+en ouverture de séance. Il vous fait rejoindre la classe sur GitHub Classroom :
+connectez-vous à GitHub, puis **choisissez votre propre nom** dans la liste.
+C'est ainsi que votre compte GitHub est relié à votre nom, pour les devoirs
+comme pour le dossier [`students/`](students/). Dans l'heure qui suit, vous
+recevez une invitation à collaborer sur ce dépôt.
+
 ---
 
 ## 💾 Les données

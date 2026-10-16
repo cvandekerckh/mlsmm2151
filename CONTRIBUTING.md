@@ -15,8 +15,11 @@ Ce dépôt a deux zones, avec des règles très différentes.
 
 ## Comment publier dans `students/`
 
-Pas besoin de *fork* : en début de cours, vous recevez une invitation à
-collaborer sur ce dépôt (acceptez-la, elle expire après sept jours). Vous
+Pas besoin de *fork* : après votre inscription en début de séance 1 (voir les
+[prérequis](README.md#-prérequis)), vous recevez une invitation à collaborer sur
+ce dépôt. Acceptez-la sur
+[github.com/cvandekerckh/mlsmm2151/invitations](https://github.com/cvandekerckh/mlsmm2151/invitations) :
+elle expire après sept jours. Vous
 travaillez ensuite directement ici, en trois temps.
 
 1. **Une branche.** On ne modifie jamais `main` directement. Sur GitHub, ouvrez
