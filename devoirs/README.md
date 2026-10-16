@@ -20,18 +20,21 @@ Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux
 
 ## Comment ça se passe
 
-Chaque devoir se rend par **GitHub Classroom**.
+Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
 
-1. Vous recevez un **lien d'invitation**, publié dans le README du dépôt du
-   cours et annoncé en séance.
-2. Vous cliquez, vous vous associez à votre nom, et GitHub crée automatiquement
-   **un dépôt privé à votre nom**, pré-rempli avec le squelette du devoir.
+1. Au début de la séance 1, vous vous inscrivez par un formulaire, avec votre
+   **pseudo GitHub** (voir les [prérequis](../README.md#-prérequis)).
+2. À chaque devoir, l'enseignant crée pour vous le dépôt
+   `mlsmm2151-uclouvain/devoir-N-votre-pseudo`, pré-rempli avec le squelette du
+   devoir, et vous y invite. Acceptez l'invitation, reçue par e-mail et sur
+   github.com. Seuls vous et l'enseignant y avez accès.
 3. Vous travaillez dedans, en poussant vos commits **au fur et à mesure**.
 4. **Il n'y a pas de bouton « rendre ».** Ce qui est dans votre dépôt à l'heure
-   de l'échéance constitue votre rendu.
+   de l'échéance constitue votre rendu. C'est l'heure à laquelle GitHub reçoit
+   votre push qui compte, pas la date inscrite dans le commit.
 
-Le chapitre 2 vous fait faire ce parcours en entier, en séance 1, avec un devoir
-blanc. Si quelque chose bloque, c'est le moment de le dire.
+Le chapitre 2 vous fait faire ce parcours en entier, en séance 1, avec le dépôt
+du devoir 1. Si quelque chose bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 
@@ -165,27 +168,28 @@ la réponse profitera aux autres. Pour ce qui vous concerne personnellement,
 
 ---
 
-## Pour l'enseignant : créer les devoirs sur Classroom
+## Pour l'enseignant : distribuer et collecter les devoirs
 
-Chaque dossier `devoir-N-*/template/` est le contenu à pousser dans un **dépôt
-template GitHub distinct**, que GitHub Classroom copiera pour chaque étudiant.
+Tout passe par trois scripts du dépôt privé, dans `outils/`, et par l'export CSV
+du formulaire d'inscription (colonnes `Nom`, `Prénom`, `NOMA`,
+`Pseudo GitHub`). Chaque script affiche ce qu'il va faire, et n'agit qu'avec
+son option.
 
 ```bash
-# Une fois par devoir, depuis la racine du dépôt de cours
-cd devoirs/devoir-1-preparation/template
-gh repo create cvandekerckh/mlsmm2151-devoir-1 --private --template=false
-git init -q && git add -A
-git commit -qm "Squelette du devoir 1"
-git branch -M main
-git remote add origin https://github.com/cvandekerckh/mlsmm2151-devoir-1.git
-git push -qu origin main
-gh repo edit cvandekerckh/mlsmm2151-devoir-1 --template
+# Séance 1, pendant le Ch1 : accès à students/, puis dépôts du devoir 1
+python outils/inviter.py inscriptions.csv --inviter
+python outils/distribuer.py 1 inscriptions.csv --creer
+
+# Après l'échéance : le dernier push reçu avant l'heure, pour chaque étudiant
+python outils/collecter.py 1 inscriptions.csv --echeance 2026-12-01T23:59
 ```
 
-Puis, dans GitHub Classroom : nouvelle assignment individuelle, dépôt **privé**,
-template = le dépôt créé ci-dessus, échéance = celle du tableau en haut de cette
-page. Coller le lien d'invitation obtenu dans le README du cours.
+`distribuer.py` crée `mlsmm2151-uclouvain/devoir-N-<pseudo>` à partir de
+`devoir-N-*/template/` et y invite l'étudiant. Relancé, il ne touche pas aux
+dépôts existants : c'est ainsi qu'on ajoute un retardataire. `collecter.py` se
+fie à l'heure de réception des pushes par GitHub, et peut donc tourner après
+l'échéance. Il écrit une copie de chaque rendu et un récapitulatif CSV.
 
-Vérification avant de diffuser le lien : accepter l'assignment avec un compte de
-test, ouvrir `notebook.ipynb` dans Colab, remplacer `VOTRE_MATRICULE`, et
-vérifier que la cellule de chargement des données aboutit.
+Vérification avant chaque devoir : créer un dépôt pour un compte de test,
+ouvrir `notebook.ipynb` dans Colab avec ce compte, remplacer `VOTRE_MATRICULE`,
+et vérifier que la cellule de chargement des données aboutit.

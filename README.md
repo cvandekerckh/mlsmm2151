@@ -63,7 +63,7 @@ mlsmm2151/
 │       ├── README.md   Objectifs, séance de rattachement, durée, liens Colab
 │       ├── 01-....ipynb
 │       └── corriges/   Corrigés des hack-times, publiés après la séance
-├── devoirs/            Énoncés, grilles de correction, squelettes Classroom
+├── devoirs/            Énoncés, grilles de correction, squelettes des dépôts de devoir
 ├── data/               Codebooks et provenance. AUCUNE donnée, voir plus bas
 ├── examen/             Format de l'examen et matière concernée
 ├── students/           Votre espace : notes collectives, exercices, à vous de l'organiser
@@ -145,12 +145,13 @@ Le plan détaillé, section par section, est dans [`plan.md`](plan.md).
 - **Un compte GitHub**, pour rendre les devoirs. Créez-le avant la séance 1 :
   [github.com/signup](https://github.com/signup).
 
-**Première chose à faire en séance 1 : l'inscription.** Le lien vous est donné
-en ouverture de séance. Il vous fait rejoindre la classe sur GitHub Classroom :
-connectez-vous à GitHub, puis **choisissez votre propre nom** dans la liste.
-C'est ainsi que votre compte GitHub est relié à votre nom, pour les devoirs
-comme pour le dossier [`students/`](students/). Dans l'heure qui suit, vous
-recevez une invitation à collaborer sur ce dépôt.
+**Première chose à faire en séance 1 : l'inscription.** Le lien d'un court
+formulaire vous est donné en ouverture de séance : nom, prénom, NOMA et
+**pseudo GitHub**. C'est ainsi que votre compte GitHub est relié à votre nom,
+pour les devoirs comme pour le dossier [`students/`](students/). Dans l'heure
+qui suit, vous recevez deux invitations : l'une à collaborer sur ce dépôt,
+l'autre à votre dépôt privé du devoir 1. Une faute de frappe dans le pseudo ?
+Renvoyez simplement le formulaire : la dernière réponse fait foi.
 
 ---
 
@@ -175,7 +176,7 @@ prédire le prix d'une annonce (régression) et repérer les profils Superhost
 
 | Part | Quoi |
 |---|---|
-| **50 %** | Trois devoirs de programmation, rendus via GitHub Classroom |
+| **50 %** | Trois devoirs de programmation, rendus dans un dépôt GitHub privé |
 | **50 %** | Examen en session : QCM et questions ouvertes |
 
 Les devoirs :
