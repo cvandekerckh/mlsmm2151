@@ -90,19 +90,6 @@ mlsmm2151/
 **Échéances des devoirs** : D1 le **1er décembre**, D2 le **20 décembre**,
 D3 le **10 janvier**. Détails dans [`devoirs/`](devoirs/).
 
-### Déroulé type d'une séance
-
-Identique pour les sept séances.
-
-```
-0:00-0:15   Ouverture : retour sur le devoir, ordre du jour, ouverture du pad
-0:15-1:15   Bloc 1 : premier chapitre de la séance
-1:15-1:30   Pause
-1:30-2:30   Bloc 2 : second chapitre, appliqué au fil rouge
-2:30-2:55   Hack-time long : en autonomie, ou avancement du devoir en cours
-2:55-3:00   Clôture : synthèse, et ce qu'il faut faire pour la prochaine fois
-```
-
 Les séances sont interactives. Chaque notebook alterne explication, démonstration
 et **hack-time** : cinq à dix minutes pour modifier du code et regarder ce qui
 change. Il y en a environ un toutes les dix minutes. Venez avec un ordinateur.
