@@ -34,3 +34,6 @@ MISE-EN-ROUTE.md
 # Systeme
 .DS_Store
 Thumbs.db
+
+# Copies des rendus produites par outils/collecter.py
+rendus/
