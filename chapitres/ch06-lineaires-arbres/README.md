@@ -1,4 +1,4 @@
-# Chapitre 6 — Modèles linéaires et arbres de décision
+# Chapitre 6 : Modèles linéaires et arbres de décision
 
 **Séance 3**, lundi 1er décembre, matin · **Durée estimée : 70 minutes**
 

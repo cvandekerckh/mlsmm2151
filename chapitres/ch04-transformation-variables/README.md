@@ -1,4 +1,4 @@
-# Chapitre 4 — Transformation et ingénierie des variables
+# Chapitre 4 : Transformation et ingénierie des variables
 
 **Séance 2**, jeudi 27 novembre · **Durée estimée : 70 minutes**
 

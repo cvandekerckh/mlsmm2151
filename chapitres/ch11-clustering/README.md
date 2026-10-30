@@ -1,4 +1,4 @@
-# Chapitre 11 — Clustering et segmentation
+# Chapitre 11 : Clustering et segmentation
 
 **Séance 6**, lundi 15 décembre, après-midi · **Durée estimée : 140 minutes**
 

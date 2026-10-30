@@ -1,4 +1,4 @@
-# Chapitre 12 — Réduction de dimension
+# Chapitre 12 : Réduction de dimension
 
 **Séance 7**, jeudi 18 décembre, matin · **Durée estimée : 140 minutes**
 

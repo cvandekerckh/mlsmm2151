@@ -1,4 +1,4 @@
-# Chapitre 8 — Validation et sélection de modèles
+# Chapitre 8 : Validation et sélection de modèles
 
 **Séance 4**, lundi 1er décembre, après-midi · **Durée estimée : 65 minutes**
 

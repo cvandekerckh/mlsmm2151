@@ -1,4 +1,4 @@
-# Chapitre 1 — Introduction à la Data Science appliquée
+# Chapitre 1 : Introduction à la Data Science appliquée
 
 **Séance 1**, jeudi 13 novembre, matin · **Durée estimée : 45 minutes**
 

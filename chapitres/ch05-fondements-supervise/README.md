@@ -1,4 +1,4 @@
-# Chapitre 5 — Fondements de la modélisation supervisée
+# Chapitre 5 : Fondements de la modélisation supervisée
 
 **Séance 3**, lundi 1er décembre, matin · **Durée estimée : 70 minutes**
 

@@ -1,4 +1,4 @@
-# Chapitre 2 — Reproductibilité et développement professionnel
+# Chapitre 2 : Reproductibilité et développement professionnel
 
 **Séance 1**, jeudi 13 novembre, matin · **Durée estimée : 105 minutes**
 

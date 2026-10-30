@@ -15,7 +15,7 @@ df = charger("devoir1")   # ou "devoir2", "devoir3"
 
 ---
 
-## `devoir1` — Online Retail II
+## `devoir1` : Online Retail II
 
 **541 910 lignes, 8 colonnes. 48 Mo.**
 Source : [UCI 502](https://archive.ics.uci.edu/dataset/502), licence CC BY 4.0.
@@ -51,7 +51,7 @@ facture.
 
 ---
 
-## `devoir2` — Bank Marketing
+## `devoir2` : Bank Marketing
 
 **41 188 lignes, 21 colonnes. 4,9 Mo.**
 Source : [UCI 222](https://archive.ics.uci.edu/dataset/222), licence CC BY 4.0.
@@ -87,7 +87,7 @@ dépôt à terme ?**
 
 ---
 
-## `devoir3` — Default of Credit Card Clients
+## `devoir3` : Default of Credit Card Clients
 
 **30 000 lignes, 25 colonnes. 2,9 Mo.**
 Source : [UCI 350](https://archive.ics.uci.edu/dataset/350), licence CC BY 4.0.

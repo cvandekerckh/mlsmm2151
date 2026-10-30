@@ -1,4 +1,4 @@
-# Chapitre 10 — Modèles supervisés avancés
+# Chapitre 10 : Modèles supervisés avancés
 
 **Séance 5**, lundi 15 décembre, matin · **Durée estimée : 70 minutes**
 

@@ -1,4 +1,4 @@
-# Chapitre 9 — Ensemble Learning
+# Chapitre 9 : Ensemble Learning
 
 **Séance 5**, lundi 15 décembre, matin · **Durée estimée : 70 minutes**
 

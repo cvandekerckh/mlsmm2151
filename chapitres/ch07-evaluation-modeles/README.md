@@ -1,4 +1,4 @@
-# Chapitre 7 — Évaluation des modèles
+# Chapitre 7 : Évaluation des modèles
 
 **Séance 4**, lundi 1er décembre, après-midi · **Durée estimée : 75 minutes**
 

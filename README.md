@@ -1,4 +1,4 @@
-# MLSMM2151 — Data Science
+# MLSMM2151 : Data Science
 
 > **Applied Data Science with Python** · Louvain School of Management, UCLouvain
 
@@ -29,14 +29,14 @@ Enseignant : Corentin Vande Kerckhove · `corentin.vandekerckhove[at]uclouvain.b
 
 ## 📚 Table des matières
 
-- [Calendrier](#-calendrier) — quel chapitre à quelle séance
-- [La matière, chapitre par chapitre](#-la-matière-chapitre-par-chapitre) — tous les notebooks, ouvrables dans Colab
-- [Organisation du dépôt](#-organisation-du-dépôt) — où trouver quoi
-- [Prérequis](#-prérequis) — ce qu'il faut avant la première séance
-- [Les données](#-les-données) — le fil rouge, et pourquoi rien n'est stocké ici
-- [Évaluation](#-évaluation) — devoirs et examen
-- [Notes collectives](#-notes-collectives) — les pads de prise de notes, et votre dossier `students/`
-- [Utilisation des IA](#-utilisation-des-ia) — ce qui est permis, et à quelles conditions
+- [Calendrier](#-calendrier) : quel chapitre à quelle séance
+- [La matière, chapitre par chapitre](#-la-matière-chapitre-par-chapitre) : tous les notebooks, ouvrables dans Colab
+- [Organisation du dépôt](#-organisation-du-dépôt) : où trouver quoi
+- [Prérequis](#-prérequis) : ce qu'il faut avant la première séance
+- [Les données](#-les-données) : le fil rouge, et pourquoi rien n'est stocké ici
+- [Évaluation](#-évaluation) : devoirs et examen
+- [Notes collectives](#-notes-collectives) : les pads de prise de notes, et votre dossier `students/`
+- [Utilisation des IA](#-utilisation-des-ia) : ce qui est permis, et à quelles conditions
 - [Licence](#-licence)
 
 Le plan détaillé du cours, section par section, est dans [`plan.md`](plan.md).
@@ -105,21 +105,21 @@ change. Il y en a environ un toutes les dix minutes. Venez avec un ordinateur.
 Chaque lien ouvre directement le notebook dans **Google Colab**. Rien à
 installer.
 
-### Partie I — Outils et environnement
+### Partie I : Outils et environnement
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|
 | **Ch1** Introduction à la Data Science | [1. Le rôle et le cycle de vie](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/01-role-et-cycle-de-vie.ipynb) · [2. Paradigmes et fil rouge](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/02-paradigmes-et-fil-rouge.ipynb) | 1 |
 | **Ch2** Reproductibilité | [1. Structurer un projet et ses données](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/01-structurer-un-projet-et-ses-donnees.ipynb) · [2. Git, GitHub et Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/02-git-github-colab.ipynb) · [3. Démarrer le devoir 1](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/03-demarrer-le-devoir-1.ipynb) | 1 |
 
-### Partie II — Préparation des données
+### Partie II : Préparation des données
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|
 | **Ch3** Exploration et nettoyage | [3 notebooks](chapitres/ch03-exploration-nettoyage/) *(à venir)* | 2 |
 | **Ch4** Transformation et ingénierie des variables | [3 notebooks](chapitres/ch04-transformation-variables/) *(à venir)* | 2 |
 
-### Partie III — Apprentissage supervisé
+### Partie III : Apprentissage supervisé
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|
@@ -130,7 +130,7 @@ installer.
 | **Ch9** Ensemble learning | [3 notebooks](chapitres/ch09-ensemble-learning/) *(à venir)* | 5 |
 | **Ch10** Modèles supervisés avancés | [3 notebooks](chapitres/ch10-modeles-avances/) *(à venir)* | 5 |
 
-### Parties IV et V — Non supervisé et réduction de dimension
+### Parties IV et V : Non supervisé et réduction de dimension
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|

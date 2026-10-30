@@ -1,4 +1,4 @@
-# Chapitre 3 — Exploration et nettoyage des données
+# Chapitre 3 : Exploration et nettoyage des données
 
 **Séance 2**, jeudi 27 novembre · **Durée estimée : 70 minutes**
 
