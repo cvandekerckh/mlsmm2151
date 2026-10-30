@@ -52,7 +52,7 @@ Le chapitre 2 détaille les trois cas et vous les fait pratiquer.
 Deux lignes au début de n'importe quel notebook, y compris dans Colab :
 
 ```python
-!wget -q -O donnees.py https://raw.githubusercontent.com/cvandekerckh/mlsmm2151/main/utils/donnees.py
+!curl -fsSL -o donnees.py https://raw.githubusercontent.com/cvandekerckh/mlsmm2151/main/utils/donnees.py
 from donnees import charger
 
 df = charger("airbnb_raw")
@@ -110,19 +110,30 @@ d'année.
 
 ## Pour l'enseignant : republier les données
 
-```bash
-python data/airbnb_bruxelles/fetch_airbnb_bruxelles.py --out _sortie
+Une seule release, `v1-donnees` sur le dépôt public, porte les six fichiers :
+les trois du fil rouge et les trois des devoirs. C'est là que `charger()` les
+cherche.
 
-gh release create v1-donnees \
-  _sortie/airbnb_bruxelles_raw.csv \
-  _sortie/airbnb_bruxelles_train.csv \
-  _sortie/airbnb_bruxelles_test.csv \
+```bash
+# Les deux scripts de génération (le second lit des fichiers Excel)
+uv run --no-project --python 3.12 --with pandas --with numpy \
+  data/airbnb_bruxelles/fetch_airbnb_bruxelles.py --out _sortie
+uv run --no-project --python 3.12 --with pandas --with openpyxl --with xlrd \
+  data/devoirs/fetch_donnees_devoirs.py --out _sortie
+
+# La release, sur le dépôt PUBLIC (sans --repo, elle irait sur le dépôt privé)
+gh release create v1-donnees --repo cvandekerckh/mlsmm2151 --target main \
   --title "Jeux de données du cours" \
-  --notes "Inside Airbnb Bruxelles, snapshot 2025-06-21, CC BY 4.0"
+  --notes "Inside Airbnb Bruxelles (snapshot 2025-06-21) et UCI 502, 222, 350. CC BY 4.0." \
+  _sortie/airbnb_bruxelles_raw.csv _sortie/airbnb_bruxelles_train.csv _sortie/airbnb_bruxelles_test.csv \
+  _sortie/devoir1_online_retail.csv _sortie/devoir2_bank_marketing.csv _sortie/devoir3_credit_default.csv
+
+# Pour remplacer un fichier déjà publié
+gh release upload v1-donnees --repo cvandekerckh/mlsmm2151 --clobber _sortie/<fichier>
 ```
 
-Le script est déterministe : deux exécutions produisent des fichiers identiques
-à l'octet près. Le dossier `_sortie/` est ignoré par git.
+Les scripts sont déterministes : deux exécutions produisent des fichiers
+identiques à l'octet près. Le dossier `_sortie/` est ignoré par git.
 
 Pour tester des notebooks avant la publication de la release, la variable
 d'environnement `MLSMM2151_RELEASE` permet de pointer `charger()` vers un
@@ -131,5 +142,3 @@ dossier local :
 ```bash
 MLSMM2151_RELEASE=$PWD/_sortie python mon_script.py
 ```
-
-Les jeux de données des devoirs suivent le même chemin, avec leurs propres tags.

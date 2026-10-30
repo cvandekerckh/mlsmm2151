@@ -10,7 +10,7 @@ Comment charger ces fichiers : voir [`../README.md`](../README.md).
 
 ## `airbnb_raw` : les données brutes
 
-6 721 lignes, 38 colonnes. **Chapitres 0 à 4.**
+6 721 lignes, 38 colonnes. **Chapitres 1 à 4.**
 
 Ce fichier est volontairement sale. C'est la matière première des chapitres 3 et
 4 : les problèmes ci-dessous sont à repérer et à traiter, pas à subir.

@@ -34,7 +34,7 @@ Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
    votre push qui compte, pas la date inscrite dans le commit.
 
 Le chapitre 2 vous fait faire ce parcours en entier, en séance 1, avec le dépôt
-du devoir 1. Si quelque chose bloque, c'est le moment de le dire.
+du devoir 1, et vous fait démarrer le devoir en séance. Si quelque chose bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 

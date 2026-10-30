@@ -14,13 +14,17 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 1.2. Le cycle de vie d’un projet de Data Science
 
-#### 1.3. Les trois paradigmes du Machine Learning
+#### 1.3. Premier contact avec les données du cours
+
+#### 1.4. Reconnaître un projet qui échoue
+
+#### 1.5. Les trois paradigmes du Machine Learning
 
 * Apprentissage supervisé
 * Apprentissage non supervisé
 * Apprentissage par renforcement
 
-#### 1.4. Présentation du projet fil rouge
+#### 1.6. Présentation du projet fil rouge
 
 ---
 
@@ -30,13 +34,19 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.2. Gestion des dépendances et environnements virtuels
 
-#### 2.3. Git et GitHub
+#### 2.3. Notebooks versus scripts Python
 
-#### 2.4. Collaboration et versionnement
+#### 2.4. Où vivent les données : jamais dans un dépôt git
 
-#### 2.5. Notebooks versus scripts Python
+#### 2.5. Git et GitHub
 
-#### 2.6. Où vivent les données : jamais dans un dépôt git
+#### 2.6. Travailler avec GitHub depuis Colab
+
+#### 2.7. Rendre un devoir sur GitHub
+
+#### 2.8. Collaborer : branche, pull request, relecture
+
+Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
@@ -260,6 +270,6 @@ Régler `n_estimators`, `max_depth` ou `learning_rate` n'a aucun sens sans
 validation croisée ni recherche d'hyperparamètres. Les voir dans l'autre ordre
 oblige à faire semblant pendant une séance entière.
 
-Le chapitre 2 gagne par ailleurs une section 2.6 sur le stockage des données,
+Le chapitre 2 gagne par ailleurs une section 2.4 sur le stockage des données,
 absente du plan initial : elle porte une habitude professionnelle que le cours
 évalue dans chaque devoir.

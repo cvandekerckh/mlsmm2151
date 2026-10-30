@@ -25,7 +25,8 @@ chapitres/chNN-nom-du-chapitre/
 
 Le calendrier vit uniquement dans le `README.md` racine. Il n'y a pas de dossier
 `seances/` : la durée de chaque chapitre est annoncée dans son propre README, et
-la somme des chapitres d'une séance doit faire trois heures.
+la somme des chapitres d'une séance doit faire 150 minutes, les 30 minutes
+restantes allant à l'ouverture, à la pause et à la clôture.
 
 **Nommage** : dossiers et fichiers en minuscules, sans accent, mots séparés par
 des tirets. Les notebooks sont préfixés `01-`, `02-`. Le contenu, lui, est en
@@ -171,7 +172,7 @@ et signale les erreurs fréquentes. Il est publié après la séance.
 - [ ] Le `README.md` du chapitre annonce la séance, la date, la durée et les
       objectifs, et ses liens Colab pointent vers les bons fichiers.
 - [ ] La durée annoncée, additionnée aux autres chapitres de la même séance,
-      fait trois heures.
+      fait 150 minutes.
 - [ ] Chaque notebook a son en-tête standard et sa section « À retenir ».
 - [ ] Un hack-time au moins toutes les dix minutes d'exposé, avec des
       hack-times réflexifs et pas seulement techniques.

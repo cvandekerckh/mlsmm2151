@@ -6,7 +6,7 @@ Les DONNÉES, elles, n'y sont pas : voir data/README.md.
 
 Utilisation dans un notebook, y compris dans Google Colab :
 
-    !wget -q -O donnees.py https://raw.githubusercontent.com/cvandekerckh/mlsmm2151/main/utils/donnees.py
+    !curl -fsSL -o donnees.py https://raw.githubusercontent.com/cvandekerckh/mlsmm2151/main/utils/donnees.py
     from donnees import charger
 
     df = charger("airbnb_raw")
@@ -53,7 +53,7 @@ SOURCES = {
 }
 
 DESCRIPTIONS = {
-    "airbnb_raw": "Airbnb Bruxelles, données brutes (chapitres 0 à 4)",
+    "airbnb_raw": "Airbnb Bruxelles, données brutes (chapitres 1 à 4)",
     "airbnb_train": "Airbnb Bruxelles, table de modélisation, 80 % (chapitres 5 à 12)",
     "airbnb_test": "Airbnb Bruxelles, table de modélisation, 20 % (chapitres 5 à 12)",
     "devoir1": "Devoir 1 : Online Retail II, transactions e-commerce",

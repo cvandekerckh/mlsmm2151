@@ -37,3 +37,6 @@ Thumbs.db
 
 # Copies des rendus produites par outils/collecter.py
 rendus/
+
+# Sortie des scripts de generation des donnees (data/)
+_sortie/

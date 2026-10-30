@@ -20,7 +20,7 @@ ce qui détruit les exemples des chapitres 3 et 4.
 Trois fichiers sont produits :
 
   airbnb_bruxelles_raw.csv    Données brutes, volontairement sales.
-                              Utilisé aux chapitres 0 à 4 (exploration, nettoyage).
+                              Utilisé aux chapitres 1 à 4 (exploration, nettoyage).
 
   airbnb_bruxelles_train.csv  Table de modélisation propre, 80 %.
   airbnb_bruxelles_test.csv   Table de modélisation propre, 20 %.

@@ -17,7 +17,7 @@ Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
 ## Prérequis
 
-Chapitres 0 à 2.
+Chapitres 1 et 2.
 
 ## Sections du plan couvertes
 
