@@ -170,7 +170,9 @@ et signale les erreurs fréquentes. Il est publié après la séance.
 ## Écrire un nouveau chapitre : la liste de contrôle
 
 - [ ] Le `README.md` du chapitre annonce la séance, la date, la durée et les
-      objectifs, et ses liens Colab pointent vers les bons fichiers.
+      objectifs, et ses liens Colab pointent vers les bons fichiers, dans le
+      dépôt source (`cvandekerckh/mlsmm2151-source`) : la publication les
+      réécrit vers le dépôt public.
 - [ ] La durée annoncée, additionnée aux autres chapitres de la même séance,
       fait 150 minutes.
 - [ ] Chaque notebook a son en-tête standard et sa section « À retenir ».
