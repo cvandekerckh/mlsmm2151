@@ -3,7 +3,9 @@
 > **Applied Data Science with Python** · Louvain School of Management, UCLouvain
 
 Cours d'introduction à la Data Science appliquée avec Python, structuré autour
-d'un **projet fil rouge** unique. Six séances de trois heures, entièrement
+d'un **projet fil rouge** unique. C'est la suite naturelle du cours
+[Data Analytics (MLSMM2116)](https://uclouvain.be/cours-2026-MLSMM2116), en version appliquée : la théorie y a été posée,
+ici on la met en pratique, en code, sur des données réelles. Six séances de trois heures, entièrement
 pratiques : le matériel est constitué de notebooks que vous ouvrez en un clic
 dans Google Colab, et trois devoirs se rendent via GitHub.
 
@@ -122,7 +124,7 @@ installer.
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|
-| **Ch1** Introduction à la Data Science | 1. Le rôle et le cycle de vie · 2. Paradigmes et fil rouge *(bientôt disponible, le 13/11)* | 1 |
+| **Ch1** Introduction à la Data Science | 1. De Data Analytics à la Data Science *(bientôt disponible, le 13/11)* | 1 |
 | **Ch2** Reproductibilité | 1. Structurer un projet et ses données · 2. Git, GitHub et Colab · 3. Démarrer le devoir 1 *(bientôt disponible, le 13/11)* | 1 |
 
 ### Partie II : Préparation des données
@@ -156,6 +158,8 @@ Le plan détaillé, section par section, est dans [`plan.md`](plan.md).
 
 ## 🛠️ Prérequis
 
+- **Le cours [Data Analytics (MLSMM2116)](https://uclouvain.be/cours-2026-MLSMM2116)**, ou l'équivalent :
+  ce cours en est la suite appliquée et n'en refait pas la théorie.
 - **Des bases en Python.** Variables, listes, boucles, fonctions.
 - **Un compte Google**, pour utiliser Colab. Rien à installer sur votre machine.
 - **Un compte GitHub**, pour rendre les devoirs. Créez-le avant la séance 1 :

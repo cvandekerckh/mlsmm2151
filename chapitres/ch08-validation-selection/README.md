@@ -19,6 +19,10 @@ Savoir si un résultat tiendra sur des données jamais vues, et choisir entre pl
 
 Chapitre 7.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté le découpage entraînement, validation et test, et le rééquilibrage des classes. Ici : validation croisée, hyperparamètres, validation temporelle et déséquilibre, en pratique.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 8 de `plan.md`](../../plan.md).

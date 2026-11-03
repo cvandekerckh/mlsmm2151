@@ -19,6 +19,10 @@ Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
 Chapitres 1 et 2.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté les problèmes liés aux données, le nettoyage et la transformation (ETL), et l'analyse descriptive. Ici, vous les faites vous-même, en pandas, sur des données réellement sales.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 3 de `plan.md`](../../plan.md).

@@ -18,6 +18,10 @@ Le notebook 3 se fait dans votre dépôt de devoir, ouvert dans un second onglet
 
 Chapitre 1.
 
+## Pont avec Data Analytics
+
+Data Analytics a montré le cycle de vie d'un projet et le reporting sous Power BI. Ici, le projet vit dans du code et dans git : c'est ce qui le rend reproductible, et c'est ce que les devoirs évaluent.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 2 de `plan.md`](../../plan.md).

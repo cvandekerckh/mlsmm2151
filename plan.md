@@ -10,21 +10,19 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ### Chapitre 1 – Introduction à la Data Science appliquée *(séance 1, ven 13/11 matin)*
 
-#### 1.1. Le rôle du Data Scientist
+#### 1.1. De Data Analytics à la Data Science : ce qui a été posé, ce que ce cours en fait
 
-#### 1.2. Le cycle de vie d’un projet de Data Science
+#### 1.2. Premier contact avec les données du cours
 
-#### 1.3. Premier contact avec les données du cours
+#### 1.3. Reconnaître un projet qui échoue
 
-#### 1.4. Reconnaître un projet qui échoue
+#### 1.4. Les trois paradigmes, en pratique
 
-#### 1.5. Les trois paradigmes du Machine Learning
-
-* Apprentissage supervisé
+* Apprentissage supervisé : régression et classification
 * Apprentissage non supervisé
-* Apprentissage par renforcement
+* Apprentissage par renforcement, non traité
 
-#### 1.6. Présentation du projet fil rouge
+#### 1.5. Présentation du projet fil rouge
 
 ---
 

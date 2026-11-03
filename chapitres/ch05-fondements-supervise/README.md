@@ -18,6 +18,10 @@ Le cadre commun à tout modèle supervisé : ce qu'on prédit, avec quoi, commen
 
 Chapitres 3 et 4.
 
+## Pont avec Data Analytics
+
+Data Analytics a défini l'apprentissage supervisé, le découpage entraînement, validation et test, le sur-apprentissage et le sous-apprentissage. Ici, vous les faites, et vous voyez une fuite de données en vrai.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 5 de `plan.md`](../../plan.md).

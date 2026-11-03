@@ -19,6 +19,10 @@ Trouver des groupes sans savoir ce qu'on cherche, et surtout : décider si le r�
 
 Chapitres 3 et 4.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté le clustering et K-Means. Ici : K-Means en pratique, DBSCAN, et comment évaluer une segmentation qui n'a pas de bonne réponse.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 11 de `plan.md`](../../plan.md).

@@ -19,6 +19,10 @@ Résumer beaucoup de variables en peu, pour visualiser, compresser, ou simplifie
 
 Chapitres 4, 7 et 11.
 
+## Pont avec Data Analytics
+
+Data Analytics a cité la réduction de dimension parmi les tâches non supervisées. Ici : la PCA, en pratique et dans un pipeline supervisé.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 12 de `plan.md`](../../plan.md).

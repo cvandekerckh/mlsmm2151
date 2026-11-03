@@ -19,6 +19,10 @@ Combiner plusieurs modèles médiocres pour en obtenir un bon. C'est ce qui gagn
 
 Chapitres 6 à 8.
 
+## Pont avec Data Analytics
+
+Les méthodes d'ensemble n'ont pas été vues en Data Analytics. Elles s'appuient sur les arbres de décision du chapitre 6.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 9 de `plan.md`](../../plan.md).

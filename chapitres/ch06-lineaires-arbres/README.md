@@ -18,6 +18,10 @@ Les premiers modèles, choisis pour être interprétables : on peut lire ce qu'i
 
 Chapitre 5.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté la régression, la classification et l'optimisation. Ici : régression linéaire et logistique, régularisation et arbres de décision, en code.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 6 de `plan.md`](../../plan.md).

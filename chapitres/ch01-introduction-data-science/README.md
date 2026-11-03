@@ -2,18 +2,20 @@
 
 **Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 45 minutes**
 
-Ce que fait réellement un data scientist, les six étapes d'un projet, les trois paradigmes du machine learning, et présentation du fil rouge Airbnb Bruxelles.
+Le pont avec le cours [Data Analytics (MLSMM2116)](https://uclouvain.be/cours-2026-MLSMM2116) : ce que vous y avez vu, et où ce cours le met en pratique. Puis un premier contact avec les données réelles du fil rouge Airbnb Bruxelles, les deux questions métier qui structurent le cours, et un premier calcul pour y répondre.
 
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Le rôle et le cycle de vie | 25 min | *bientôt disponible, le 13/11* |
-| 2 | Les paradigmes et le projet fil rouge | 20 min | *bientôt disponible, le 13/11* |
+| 1 | De Data Analytics à la Data Science | 45 min | *bientôt disponible, le 13/11* |
 
 ## Prérequis
 
-Aucun.
+Le cours Data Analytics (MLSMM2116), ou l'équivalent : le cycle de vie d'un
+projet, la différence entre supervisé et non supervisé, le découpage
+entraînement, validation et test. Ce chapitre les rappelle en une table, sans
+les réexpliquer.
 
 ## Sections du plan couvertes
 

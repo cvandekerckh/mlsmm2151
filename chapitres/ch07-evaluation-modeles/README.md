@@ -19,6 +19,10 @@ Mesurer si un modèle est bon. Le chapitre le plus important du cours, et celui 
 
 Chapitres 5 et 6.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté les métriques de classification. Ici, vous les calculez, vous choisissez la bonne, et vous voyez quand l'accuracy ment.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 7 de `plan.md`](../../plan.md).

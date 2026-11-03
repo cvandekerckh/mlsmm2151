@@ -19,6 +19,10 @@ Trois familles de modèles de plus, et surtout : comment choisir, sachant qu'un 
 
 Chapitres 6 à 9.
 
+## Pont avec Data Analytics
+
+Data Analytics a cité KNN, SVM et les réseaux de neurones. Ici, vous les entraînez, vous les comparez, et vous apprenez à choisir.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 10 de `plan.md`](../../plan.md).

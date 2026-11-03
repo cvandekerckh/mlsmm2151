@@ -19,6 +19,10 @@ Transformer des colonnes en variables utilisables par un modèle, et enfermer ce
 
 Chapitre 3.
 
+## Pont avec Data Analytics
+
+Data Analytics a présenté la standardisation des données et l'extraction de variables. Ici : encodage, mise à l'échelle et pipelines scikit-learn, pour que ces transformations soient rejouables.
+
 ## Sections du plan couvertes
 
 Voir le [chapitre 4 de `plan.md`](../../plan.md).
