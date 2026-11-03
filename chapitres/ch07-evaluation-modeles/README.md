@@ -11,9 +11,9 @@ Mesurer si un modèle est bon. Le chapitre le plus important du cours, et celui 
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Métriques de régression | 20 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch07-evaluation-modeles/01-metriques-de-regression.ipynb) |
-| 2 | Métriques de classification | 30 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch07-evaluation-modeles/02-metriques-de-classification.ipynb) |
-| 3 | Courbes, seuils et probabilités | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch07-evaluation-modeles/03-courbes-seuils-et-probabilites.ipynb) |
+| 1 | Métriques de régression | 20 min | *bientôt disponible, le 01/12* |
+| 2 | Métriques de classification | 30 min | *bientôt disponible, le 01/12* |
+| 3 | Courbes, seuils et probabilités | 25 min | *bientôt disponible, le 01/12* |
 
 ## Prérequis
 

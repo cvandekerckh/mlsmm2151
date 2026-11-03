@@ -11,9 +11,9 @@ Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Analyse exploratoire et contrôle qualité | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/01-analyse-exploratoire-et-qualite.ipynb) |
-| 2 | Manquants, doublons, valeurs aberrantes | 30 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/02-manquants-doublons-aberrantes.ipynb) |
-| 3 | Variables temporelles | 15 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/03-variables-temporelles.ipynb) |
+| 1 | Analyse exploratoire et contrôle qualité | 25 min | *bientôt disponible, le 27/11* |
+| 2 | Manquants, doublons, valeurs aberrantes | 30 min | *bientôt disponible, le 27/11* |
+| 3 | Variables temporelles | 15 min | *bientôt disponible, le 27/11* |
 
 ## Prérequis
 

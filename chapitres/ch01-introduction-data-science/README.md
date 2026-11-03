@@ -8,8 +8,8 @@ Ce que fait réellement un data scientist, les six étapes d'un projet, les troi
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Le rôle et le cycle de vie | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/01-role-et-cycle-de-vie.ipynb) |
-| 2 | Les paradigmes et le projet fil rouge | 20 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/02-paradigmes-et-fil-rouge.ipynb) |
+| 1 | Le rôle et le cycle de vie | 25 min | *bientôt disponible, le 13/11* |
+| 2 | Les paradigmes et le projet fil rouge | 20 min | *bientôt disponible, le 13/11* |
 
 ## Prérequis
 
@@ -21,5 +21,5 @@ Voir le [chapitre 1 de `plan.md`](../../plan.md).
 
 ## Corrigés
 
-Les corrigés des hack-times sont dans [`corriges/`](corriges/), publiés
+Les corrigés des hack-times sont dans `corriges/` *(bientôt disponible, le 14/11)*, publiés
 après la séance.

@@ -11,9 +11,9 @@ Combiner plusieurs modèles médiocres pour en obtenir un bon. C'est ce qui gagn
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Bagging et Random Forest | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch09-ensemble-learning/01-bagging-et-random-forest.ipynb) |
-| 2 | Boosting et XGBoost | 30 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch09-ensemble-learning/02-boosting-et-xgboost.ipynb) |
-| 3 | Stacking et comparaison des approches | 15 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch09-ensemble-learning/03-stacking-et-comparaison.ipynb) |
+| 1 | Bagging et Random Forest | 25 min | *bientôt disponible, le 15/12* |
+| 2 | Boosting et XGBoost | 30 min | *bientôt disponible, le 15/12* |
+| 3 | Stacking et comparaison des approches | 15 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

@@ -11,9 +11,9 @@ Savoir si un résultat tiendra sur des données jamais vues, et choisir entre pl
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Validation croisée | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch08-validation-selection/01-validation-croisee.ipynb) |
-| 2 | Hyperparamètres et validation temporelle | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch08-validation-selection/02-hyperparametres-et-validation-temporelle.ipynb) |
-| 3 | Déséquilibre des classes et sélection finale | 15 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch08-validation-selection/03-desequilibre-et-selection.ipynb) |
+| 1 | Validation croisée | 25 min | *bientôt disponible, le 01/12* |
+| 2 | Hyperparamètres et validation temporelle | 25 min | *bientôt disponible, le 01/12* |
+| 3 | Déséquilibre des classes et sélection finale | 15 min | *bientôt disponible, le 01/12* |
 
 ## Prérequis
 

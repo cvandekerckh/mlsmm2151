@@ -91,6 +91,11 @@ mlsmm2151/
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
 l'ouverture, à la pause et à la clôture.
 
+Ce cours est l'un des trois de la majeure Business Analytics. Le planning
+effectif du quadrimestre, avec les deux autres cours :
+
+![Planning de la majeure Business Analytics, 2026 Q1](images/planning-majeure-2026-q1.png)
+
 **Échéances des devoirs** : D1 le **1er décembre**, D2 le **20 décembre**,
 D3 le **10 janvier**. Détails dans [`devoirs/`](devoirs/).
 
@@ -109,8 +114,8 @@ installer.
 
 | Chapitre | Notebooks | Séance |
 |---|---|---|
-| **Ch1** Introduction à la Data Science | [1. Le rôle et le cycle de vie](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/01-role-et-cycle-de-vie.ipynb) · [2. Paradigmes et fil rouge](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/02-paradigmes-et-fil-rouge.ipynb) | 1 |
-| **Ch2** Reproductibilité | [1. Structurer un projet et ses données](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/01-structurer-un-projet-et-ses-donnees.ipynb) · [2. Git, GitHub et Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/02-git-github-colab.ipynb) · [3. Démarrer le devoir 1](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/03-demarrer-le-devoir-1.ipynb) | 1 |
+| **Ch1** Introduction à la Data Science | 1. Le rôle et le cycle de vie · 2. Paradigmes et fil rouge *(bientôt disponible, le 13/11)* | 1 |
+| **Ch2** Reproductibilité | 1. Structurer un projet et ses données · 2. Git, GitHub et Colab · 3. Démarrer le devoir 1 *(bientôt disponible, le 13/11)* | 1 |
 
 ### Partie II : Préparation des données
 
@@ -186,9 +191,9 @@ Les devoirs :
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| [D1 Préparation des données](devoirs/devoir-1-preparation/) | Ch1 à Ch4 | 13/11 | **01/12** | 15 % |
-| [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) | Ch5 à Ch10 | 01/12 | **20/12** | 25 % |
-| [D3 Apprentissage non supervisé](devoirs/devoir-3-non-supervise/) | Ch11 et Ch12 | 15/12 | **10/01** | 10 % |
+| D1 Préparation des données *(bientôt disponible, le 13/11)* | Ch1 à Ch4 | 13/11 | **01/12** | 15 % |
+| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Ch5 à Ch10 | 01/12 | **20/12** | 25 % |
+| D3 Apprentissage non supervisé *(bientôt disponible, le 15/12)* | Ch11 et Ch12 | 15/12 | **10/01** | 10 % |
 
 Les devoirs ne sont pas évalués sur le seul fait que le code tourne. La qualité
 des choix méthodologiques, la clarté des explications, la reproductibilité et la

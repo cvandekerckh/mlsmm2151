@@ -11,9 +11,9 @@ Résumer beaucoup de variables en peu, pour visualiser, compresser, ou simplifie
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Analyse en composantes principales | 45 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch12-reduction-dimension/01-pca.ipynb) |
-| 2 | Réduction de dimension et visualisation | 50 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch12-reduction-dimension/02-pca-dans-un-pipeline.ipynb) |
-| 3 | Synthèse du cours et préparation de l'examen | 45 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch12-reduction-dimension/03-synthese-et-examen.ipynb) |
+| 1 | Analyse en composantes principales | 45 min | *bientôt disponible, le 18/12* |
+| 2 | Réduction de dimension et visualisation | 50 min | *bientôt disponible, le 18/12* |
+| 3 | Synthèse du cours et préparation de l'examen | 45 min | *bientôt disponible, le 18/12* |
 
 ## Prérequis
 

@@ -5,9 +5,9 @@ en session.
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| [D1 Préparation des données](devoir-1-preparation/) | Chapitres 1 à 4 | 13/11 | **lundi 1er décembre, 23h59** | 15 % |
-| [D2 Modélisation supervisée](devoir-2-supervise/) | Chapitres 5 à 10 | 01/12 | **samedi 20 décembre, 23h59** | 25 % |
-| [D3 Apprentissage non supervisé](devoir-3-non-supervise/) | Chapitres 11 et 12 | 15/12 | **samedi 10 janvier, 23h59** | 10 % |
+| D1 Préparation des données *(bientôt disponible, le 13/11)* | Chapitres 1 à 4 | 13/11 | **lundi 1er décembre, 23h59** | 15 % |
+| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Chapitres 5 à 10 | 01/12 | **samedi 20 décembre, 23h59** | 25 % |
+| D3 Apprentissage non supervisé *(bientôt disponible, le 15/12)* | Chapitres 11 et 12 | 15/12 | **samedi 10 janvier, 23h59** | 10 % |
 
 Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux.
 

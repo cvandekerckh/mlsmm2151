@@ -11,9 +11,9 @@ Trois familles de modèles de plus, et surtout : comment choisir, sachant qu'un 
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | K plus proches voisins et SVM | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch10-modeles-avances/01-knn-et-svm.ipynb) |
-| 2 | Réseaux de neurones et perceptron multicouche | 30 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch10-modeles-avances/02-reseaux-de-neurones.ipynb) |
-| 3 | Choisir un modèle adapté au problème | 15 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch10-modeles-avances/03-choisir-un-modele.ipynb) |
+| 1 | K plus proches voisins et SVM | 25 min | *bientôt disponible, le 15/12* |
+| 2 | Réseaux de neurones et perceptron multicouche | 30 min | *bientôt disponible, le 15/12* |
+| 3 | Choisir un modèle adapté au problème | 15 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

@@ -11,8 +11,8 @@ Les premiers modèles, choisis pour être interprétables : on peut lire ce qu'i
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Régression linéaire et régression logistique | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch06-lineaires-arbres/01-regressions-lineaire-et-logistique.ipynb) |
-| 2 | Régularisation et arbres de décision | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch06-lineaires-arbres/02-regularisation-et-arbres.ipynb) |
+| 1 | Régression linéaire et régression logistique | 35 min | *bientôt disponible, le 01/12* |
+| 2 | Régularisation et arbres de décision | 35 min | *bientôt disponible, le 01/12* |
 
 ## Prérequis
 

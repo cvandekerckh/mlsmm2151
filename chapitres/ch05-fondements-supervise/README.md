@@ -11,8 +11,8 @@ Le cadre commun à tout modèle supervisé : ce qu'on prédit, avec quoi, commen
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Cible, découpage et baseline | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch05-fondements-supervise/01-cible-decoupage-baseline.ipynb) |
-| 2 | Surapprentissage et fuites de données | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch05-fondements-supervise/02-surapprentissage-et-fuites.ipynb) |
+| 1 | Cible, découpage et baseline | 35 min | *bientôt disponible, le 01/12* |
+| 2 | Surapprentissage et fuites de données | 35 min | *bientôt disponible, le 01/12* |
 
 ## Prérequis
 

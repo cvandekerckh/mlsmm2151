@@ -11,9 +11,9 @@ Trouver des groupes sans savoir ce qu'on cherche, et surtout : décider si le r�
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | K-Means et qualité des clusters | 50 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch11-clustering/01-kmeans-et-qualite-des-clusters.ipynb) |
-| 2 | DBSCAN | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch11-clustering/02-dbscan.ipynb) |
-| 3 | Application : segmentation de clientèle | 55 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch11-clustering/03-segmentation-de-clientele.ipynb) |
+| 1 | K-Means et qualité des clusters | 50 min | *bientôt disponible, le 15/12* |
+| 2 | DBSCAN | 35 min | *bientôt disponible, le 15/12* |
+| 3 | Application : segmentation de clientèle | 55 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 
