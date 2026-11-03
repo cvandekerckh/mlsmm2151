@@ -1,6 +1,6 @@
 # Chapitre 10 : Modèles supervisés avancés
 
-**Séance 5**, lundi 15 décembre, matin · **Durée estimée : 70 minutes**
+**Séance 5**, mardi 15 décembre, après-midi · **Durée estimée : 75 minutes**
 
 Trois familles de modèles de plus, et surtout : comment choisir, sachant qu'un modèle plus complexe n'est presque jamais la bonne réponse.
 
@@ -13,7 +13,7 @@ Trois familles de modèles de plus, et surtout : comment choisir, sachant qu'un 
 |---|---|---|---|
 | 1 | K plus proches voisins et SVM | 25 min | *bientôt disponible, le 15/12* |
 | 2 | Réseaux de neurones et perceptron multicouche | 30 min | *bientôt disponible, le 15/12* |
-| 3 | Choisir un modèle adapté au problème | 15 min | *bientôt disponible, le 15/12* |
+| 3 | Choisir un modèle adapté au problème | 20 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

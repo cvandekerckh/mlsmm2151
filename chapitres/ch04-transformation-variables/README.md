@@ -1,6 +1,6 @@
 # Chapitre 4 : Transformation et ingénierie des variables
 
-**Séance 2**, jeudi 27 novembre · **Durée estimée : 70 minutes**
+**Séance 2**, vendredi 27 novembre, matin · **Durée estimée : 75 minutes**
 
 Transformer des colonnes en variables utilisables par un modèle, et enfermer ces transformations dans un pipeline reproductible.
 
@@ -13,7 +13,7 @@ Transformer des colonnes en variables utilisables par un modèle, et enfermer ce
 |---|---|---|---|
 | 1 | Encodage et mise à l'échelle | 25 min | *bientôt disponible, le 27/11* |
 | 2 | Créer et sélectionner des variables | 25 min | *bientôt disponible, le 27/11* |
-| 3 | Pipelines de prétraitement avec scikit-learn | 20 min | *bientôt disponible, le 27/11* |
+| 3 | Pipelines de prétraitement avec scikit-learn | 25 min | *bientôt disponible, le 27/11* |
 
 ## Prérequis
 

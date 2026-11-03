@@ -5,16 +5,17 @@ en session.
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| D1 Préparation des données *(bientôt disponible, le 13/11)* | Chapitres 1 à 4 | 13/11 | **lundi 1er décembre, 23h59** | 15 % |
-| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Chapitres 5 à 10 | 01/12 | **samedi 20 décembre, 23h59** | 25 % |
-| D3 Apprentissage non supervisé *(bientôt disponible, le 15/12)* | Chapitres 11 et 12 | 15/12 | **samedi 10 janvier, 23h59** | 10 % |
+| D1 Préparation des données *(bientôt disponible, le 13/11)* | Chapitres 1 à 4 | 13/11 | **mardi 1er décembre, 23h59** | 15 % |
+| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Chapitres 5 à 10 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
+| D3 Apprentissage non supervisé *(bientôt disponible, le 18/12)* | Chapitres 11 et 12 | 18/12 | **dimanche 10 janvier, 23h59** | 10 % |
 
 Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux.
 
-> **À propos du D2 et du calendrier.** La séance 5 a lieu le 15 décembre et le
-> D2 est dû le 20. C'est court. L'essentiel du devoir (chapitres 5 à 8) est
-> faisable dès le 1er décembre, et l'énoncé indique explicitement quelles
-> questions dépendent de la séance 5. Ne commencez pas le 16.
+> **À propos du D2 et du calendrier.** Les chapitres 5 et 6 sont vus le
+> 1er décembre, les chapitres 7 à 10 le 15 décembre, et le D2 est dû le
+> 4 janvier. Les parties 1 et 2 sont faisables dès le 1er décembre, la partie 3
+> en partie ; le reste dépend du 15 décembre, et l'énoncé le signale question
+> par question. Commencez le 1er décembre, pas le 16.
 
 ---
 

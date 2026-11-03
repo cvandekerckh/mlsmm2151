@@ -3,7 +3,7 @@
 > **Applied Data Science with Python** · Louvain School of Management, UCLouvain
 
 Cours d'introduction à la Data Science appliquée avec Python, structuré autour
-d'un **projet fil rouge** unique. Sept séances de trois heures, entièrement
+d'un **projet fil rouge** unique. Six séances de trois heures, entièrement
 pratiques : le matériel est constitué de notebooks que vous ouvrez en un clic
 dans Google Colab, et trois devoirs se rendent via GitHub.
 
@@ -80,13 +80,12 @@ mlsmm2151/
 
 | Séance | Date | Chapitres | Devoir |
 |---|---|---|---|
-| **1** | jeu 13/11, matin | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | D1 publié et démarré en séance |
-| **2** | jeu 27/11 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | |
-| **3** | lun 01/12, matin | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | **D1 dû** · D2 publié |
-| **4** | lun 01/12, après-midi | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | |
-| **5** | lun 15/12, matin | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | |
-| **6** | lun 15/12, après-midi | [Ch11 Clustering](chapitres/ch11-clustering/) | D3 publié |
-| **7** | jeu 18/12, matin | [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | |
+| **1** | ven 13/11, 9h45 | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | D1 publié et démarré en séance |
+| **2** | ven 27/11, 9h45 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | |
+| **3** | mar 01/12, 13h45 | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | **D1 dû** · D2 publié |
+| **4** | mar 15/12, 9h45 | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | |
+| **5** | mar 15/12, 13h45 | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | |
+| **6** | ven 18/12, 9h45 | [Ch11 Clustering](chapitres/ch11-clustering/) · [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | D3 publié |
 
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
 l'ouverture, à la pause et à la clôture.
@@ -96,7 +95,7 @@ effectif du quadrimestre, avec les deux autres cours :
 
 ![Planning de la majeure Business Analytics, 2026 Q1](images/planning-majeure-2026-q1.png)
 
-**Échéances des devoirs** : D1 le **1er décembre**, D2 le **20 décembre**,
+**Échéances des devoirs** : D1 le **1er décembre**, D2 le **4 janvier**,
 D3 le **10 janvier**. Détails dans [`devoirs/`](devoirs/).
 
 Les séances sont interactives. Chaque notebook alterne explication, démonstration
@@ -140,7 +139,7 @@ installer.
 | Chapitre | Notebooks | Séance |
 |---|---|---|
 | **Ch11** Clustering et segmentation | [3 notebooks](chapitres/ch11-clustering/) *(à venir)* | 6 |
-| **Ch12** Réduction de dimension | [3 notebooks](chapitres/ch12-reduction-dimension/) *(à venir)* | 7 |
+| **Ch12** Réduction de dimension | [3 notebooks](chapitres/ch12-reduction-dimension/) *(à venir)* | 6 |
 
 Le plan détaillé, section par section, est dans [`plan.md`](plan.md).
 
@@ -192,8 +191,8 @@ Les devoirs :
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
 | D1 Préparation des données *(bientôt disponible, le 13/11)* | Ch1 à Ch4 | 13/11 | **01/12** | 15 % |
-| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Ch5 à Ch10 | 01/12 | **20/12** | 25 % |
-| D3 Apprentissage non supervisé *(bientôt disponible, le 15/12)* | Ch11 et Ch12 | 15/12 | **10/01** | 10 % |
+| D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Ch5 à Ch10 | 01/12 | **04/01** | 25 % |
+| D3 Apprentissage non supervisé *(bientôt disponible, le 18/12)* | Ch11 et Ch12 | 18/12 | **10/01** | 10 % |
 
 Les devoirs ne sont pas évalués sur le seul fait que le code tourne. La qualité
 des choix méthodologiques, la clarté des explications, la reproductibilité et la

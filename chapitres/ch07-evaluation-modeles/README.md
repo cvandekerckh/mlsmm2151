@@ -1,6 +1,6 @@
 # Chapitre 7 : Évaluation des modèles
 
-**Séance 4**, lundi 1er décembre, après-midi · **Durée estimée : 75 minutes**
+**Séance 4**, mardi 15 décembre, matin · **Durée estimée : 75 minutes**
 
 Mesurer si un modèle est bon. Le chapitre le plus important du cours, et celui qui pèse le plus à l'examen.
 
@@ -11,9 +11,9 @@ Mesurer si un modèle est bon. Le chapitre le plus important du cours, et celui 
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Métriques de régression | 20 min | *bientôt disponible, le 01/12* |
-| 2 | Métriques de classification | 30 min | *bientôt disponible, le 01/12* |
-| 3 | Courbes, seuils et probabilités | 25 min | *bientôt disponible, le 01/12* |
+| 1 | Métriques de régression | 20 min | *bientôt disponible, le 15/12* |
+| 2 | Métriques de classification | 30 min | *bientôt disponible, le 15/12* |
+| 3 | Courbes, seuils et probabilités | 25 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

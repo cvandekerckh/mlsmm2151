@@ -1,6 +1,6 @@
 # Chapitre 1 : Introduction à la Data Science appliquée
 
-**Séance 1**, jeudi 13 novembre, matin · **Durée estimée : 45 minutes**
+**Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 45 minutes**
 
 Ce que fait réellement un data scientist, les six étapes d'un projet, les trois paradigmes du machine learning, et présentation du fil rouge Airbnb Bruxelles.
 

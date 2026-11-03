@@ -1,6 +1,6 @@
 # Chapitre 5 : Fondements de la modélisation supervisée
 
-**Séance 3**, lundi 1er décembre, matin · **Durée estimée : 70 minutes**
+**Séance 3**, mardi 1er décembre, après-midi · **Durée estimée : 75 minutes**
 
 Le cadre commun à tout modèle supervisé : ce qu'on prédit, avec quoi, comment on met des données de côté, et les deux pièges qui invalident un résultat.
 
@@ -12,7 +12,7 @@ Le cadre commun à tout modèle supervisé : ce qu'on prédit, avec quoi, commen
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
 | 1 | Cible, découpage et baseline | 35 min | *bientôt disponible, le 01/12* |
-| 2 | Surapprentissage et fuites de données | 35 min | *bientôt disponible, le 01/12* |
+| 2 | Surapprentissage et fuites de données | 40 min | *bientôt disponible, le 01/12* |
 
 ## Prérequis
 

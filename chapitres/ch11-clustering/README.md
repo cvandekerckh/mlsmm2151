@@ -1,6 +1,6 @@
 # Chapitre 11 : Clustering et segmentation
 
-**Séance 6**, lundi 15 décembre, après-midi · **Durée estimée : 140 minutes**
+**Séance 6**, vendredi 18 décembre, matin · **Durée estimée : 75 minutes**
 
 Trouver des groupes sans savoir ce qu'on cherche, et surtout : décider si le résultat sert à quelque chose.
 
@@ -11,9 +11,9 @@ Trouver des groupes sans savoir ce qu'on cherche, et surtout : décider si le r�
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | K-Means et qualité des clusters | 50 min | *bientôt disponible, le 15/12* |
-| 2 | DBSCAN | 35 min | *bientôt disponible, le 15/12* |
-| 3 | Application : segmentation de clientèle | 55 min | *bientôt disponible, le 15/12* |
+| 1 | K-Means et qualité des clusters | 30 min | *bientôt disponible, le 18/12* |
+| 2 | DBSCAN | 20 min | *bientôt disponible, le 18/12* |
+| 3 | Application : segmentation de clientèle | 25 min | *bientôt disponible, le 18/12* |
 
 ## Prérequis
 

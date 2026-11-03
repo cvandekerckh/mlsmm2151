@@ -41,7 +41,7 @@ français correct, **avec les accents**.
 ```markdown
 # Chapitre 3 : Exploration et nettoyage des données
 
-*MLSMM2151 Data Science · Séance 2, jeudi 27 novembre · Corentin Vande Kerckhove*
+*MLSMM2151 Data Science · Séance 2, vendredi 27 novembre · Corentin Vande Kerckhove*
 
 > **CONSEIL** : commencez par enregistrer une copie de ce notebook dans votre Google Drive
 > (`Fichier` > `Enregistrer une copie dans Drive`) pour pouvoir prendre vos propres notes.

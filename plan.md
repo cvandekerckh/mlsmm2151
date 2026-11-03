@@ -8,7 +8,7 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ## Partie I – Outils et environnement du Data Scientist
 
-### Chapitre 1 – Introduction à la Data Science appliquée *(séance 1, jeudi 13/11 matin)*
+### Chapitre 1 – Introduction à la Data Science appliquée *(séance 1, ven 13/11 matin)*
 
 #### 1.1. Le rôle du Data Scientist
 
@@ -28,7 +28,7 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ---
 
-### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, jeudi 13/11 matin)*
+### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, ven 13/11 matin)*
 
 #### 2.1. Organisation d’un projet de Data Science
 
@@ -54,7 +54,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ## Partie II – Préparation des données
 
-### Chapitre 3 – Exploration et nettoyage des données *(séance 2, jeudi 27/11)*
+### Chapitre 3 – Exploration et nettoyage des données *(séance 2, ven 27/11 matin)*
 
 #### 3.1. Analyse exploratoire des données (EDA)
 
@@ -70,7 +70,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 4 – Transformation et ingénierie des variables *(séance 2, jeudi 27/11)*
+### Chapitre 4 – Transformation et ingénierie des variables *(séance 2, ven 27/11 matin)*
 
 #### 4.1. Encodage des variables catégorielles
 
@@ -90,7 +90,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ## Partie III – Apprentissage supervisé
 
-### Chapitre 5 – Fondements de la modélisation supervisée *(séance 3, lundi 01/12 matin)*
+### Chapitre 5 – Fondements de la modélisation supervisée *(séance 3, mar 01/12 après-midi)*
 
 #### 5.1. Variables explicatives et variable cible
 
@@ -106,7 +106,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 6 – Modèles linéaires et arbres de décision *(séance 3, lundi 01/12 matin)*
+### Chapitre 6 – Modèles linéaires et arbres de décision *(séance 3, mar 01/12 après-midi)*
 
 #### 6.1. Régression linéaire
 
@@ -124,7 +124,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 7 – Évaluation des modèles *(séance 4, lundi 01/12 après-midi)*
+### Chapitre 7 – Évaluation des modèles *(séance 4, mar 15/12 matin)*
 
 #### 7.1. Pourquoi évaluer un modèle ?
 
@@ -160,7 +160,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 8 – Validation et sélection de modèles *(séance 4, lundi 01/12 après-midi)*
+### Chapitre 8 – Validation et sélection de modèles *(séance 4, mar 15/12 matin)*
 
 #### 8.1. Hold-out Validation
 
@@ -185,7 +185,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 9 – Ensemble Learning *(séance 5, lundi 15/12 matin)*
+### Chapitre 9 – Ensemble Learning *(séance 5, mar 15/12 après-midi)*
 
 #### 9.1. Pourquoi combiner plusieurs modèles ?
 
@@ -205,7 +205,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 
-### Chapitre 10 – Modèles supervisés avancés *(séance 5, lundi 15/12 matin)*
+### Chapitre 10 – Modèles supervisés avancés *(séance 5, mar 15/12 après-midi)*
 
 #### 10.1. K-Nearest Neighbours (KNN)
 
@@ -221,7 +221,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ## Partie IV – Apprentissage non supervisé
 
-### Chapitre 11 – Clustering et segmentation *(séance 6, lundi 15/12 après-midi)*
+### Chapitre 11 – Clustering et segmentation *(séance 6, ven 18/12 matin)*
 
 #### 11.1. Objectifs du clustering
 
@@ -239,7 +239,7 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ## Partie V – Représentation et réduction de dimension
 
-### Chapitre 12 – Réduction de dimension *(séance 7, jeudi 18/12 matin)*
+### Chapitre 12 – Réduction de dimension *(séance 6, ven 18/12 matin)*
 
 #### 12.1. Motivation et cas d’usage
 

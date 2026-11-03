@@ -1,6 +1,6 @@
 # Chapitre 8 : Validation et sélection de modèles
 
-**Séance 4**, lundi 1er décembre, après-midi · **Durée estimée : 65 minutes**
+**Séance 4**, mardi 15 décembre, matin · **Durée estimée : 75 minutes**
 
 Savoir si un résultat tiendra sur des données jamais vues, et choisir entre plusieurs modèles sans se tromper soi-même.
 
@@ -11,9 +11,9 @@ Savoir si un résultat tiendra sur des données jamais vues, et choisir entre pl
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Validation croisée | 25 min | *bientôt disponible, le 01/12* |
-| 2 | Hyperparamètres et validation temporelle | 25 min | *bientôt disponible, le 01/12* |
-| 3 | Déséquilibre des classes et sélection finale | 15 min | *bientôt disponible, le 01/12* |
+| 1 | Validation croisée | 25 min | *bientôt disponible, le 15/12* |
+| 2 | Hyperparamètres et validation temporelle | 25 min | *bientôt disponible, le 15/12* |
+| 3 | Déséquilibre des classes et sélection finale | 25 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

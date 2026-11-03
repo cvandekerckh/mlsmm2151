@@ -1,6 +1,6 @@
 # Chapitre 2 : Reproductibilité et développement professionnel
 
-**Séance 1**, jeudi 13 novembre, matin · **Durée estimée : 105 minutes**
+**Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 105 minutes**
 
 Organiser un projet, gérer ses dépendances, savoir où vivent les données et pourquoi jamais dans git, et utiliser Git et GitHub depuis Colab, seul puis à plusieurs par pull request. C'est le chapitre dont vous aurez besoin pour rendre chaque devoir, et il se termine par le démarrage du devoir 1, en séance.
 

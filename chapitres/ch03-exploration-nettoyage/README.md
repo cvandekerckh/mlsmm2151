@@ -1,6 +1,6 @@
 # Chapitre 3 : Exploration et nettoyage des données
 
-**Séance 2**, jeudi 27 novembre · **Durée estimée : 70 minutes**
+**Séance 2**, vendredi 27 novembre, matin · **Durée estimée : 75 minutes**
 
 Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
@@ -13,7 +13,7 @@ Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 |---|---|---|---|
 | 1 | Analyse exploratoire et contrôle qualité | 25 min | *bientôt disponible, le 27/11* |
 | 2 | Manquants, doublons, valeurs aberrantes | 30 min | *bientôt disponible, le 27/11* |
-| 3 | Variables temporelles | 15 min | *bientôt disponible, le 27/11* |
+| 3 | Variables temporelles | 20 min | *bientôt disponible, le 27/11* |
 
 ## Prérequis
 
