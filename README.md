@@ -90,11 +90,15 @@ mlsmm2151/
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
 l'ouverture, à la pause et à la clôture.
 
-Ce cours est l'un des trois de la majeure Business Analytics. Le planning
+Ce cours est l'un des trois de la majeure Business Analytics. Voici le planning
 effectif du quadrimestre, avec les deux autres cours, en deux moitiés
-(semaines 46 à 49, puis 49 à 51 ; [version complète](images/planning-majeure-2026-q1.png)) :
+([version complète](images/planning-majeure-2026-q1.png)).
+
+**Du 13 novembre au 1er décembre**
 
 ![Planning de la majeure, du 13 novembre au 1er décembre](images/planning-majeure-2026-q1-a.png)
+
+**Du 4 au 18 décembre**
 
 ![Planning de la majeure, du 4 au 18 décembre](images/planning-majeure-2026-q1-b.png)
 

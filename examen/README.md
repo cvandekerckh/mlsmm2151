@@ -100,7 +100,7 @@ point à quelqu'un d'autre.
 formules de métriques sans savoir laquelle choisir quand. Réviser le code
 scikit-learn.
 
-Le dernier bloc de la séance 7, le 18 décembre, est consacré à la synthèse du
+Le dernier bloc de la séance 6, le 18 décembre, est consacré à la synthèse du
 cours et à la préparation de l'examen. Venez-y avec vos questions.
 
 ---
