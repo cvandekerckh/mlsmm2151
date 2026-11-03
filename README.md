@@ -169,6 +169,10 @@ qui suit, vous recevez deux invitations : l'une à collaborer sur ce dépôt,
 l'autre à votre dépôt privé du devoir 1. Une faute de frappe dans le pseudo ?
 Renvoyez simplement le formulaire : la dernière réponse fait foi.
 
+Le guide [`premiers-pas.md`](premiers-pas.md) détaille toute la mise en place,
+de la création du compte GitHub à votre premier commit depuis Colab, avec une
+table de dépannage. Lisez-le avant la séance 1, ou dès que quelque chose bloque.
+
 ---
 
 ## 💾 Les données

@@ -19,7 +19,8 @@ Pas besoin de *fork* : après votre inscription en début de séance 1 (voir les
 [prérequis](README.md#-prérequis)), vous recevez une invitation à collaborer sur
 ce dépôt. Acceptez-la sur
 [github.com/cvandekerckh/mlsmm2151/invitations](https://github.com/cvandekerckh/mlsmm2151/invitations) :
-elle expire après sept jours. Vous
+elle expire après sept jours. La mise en place complète des comptes et de
+Colab est décrite dans [`premiers-pas.md`](premiers-pas.md). Vous
 travaillez ensuite directement ici, en trois temps.
 
 1. **Une branche.** On ne modifie jamais `main` directement. Sur GitHub, ouvrez
