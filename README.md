@@ -78,18 +78,6 @@ mlsmm2151/
 
 ## 📅 Calendrier
 
-| Séance | Date | Chapitres | Devoir |
-|---|---|---|---|
-| **1** | ven 13/11, 9h45 | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | D1 publié et démarré en séance |
-| **2** | ven 27/11, 9h45 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | |
-| **3** | mar 01/12, 13h45 | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | **D1 dû** · D2 publié |
-| **4** | mar 15/12, 9h45 | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | |
-| **5** | mar 15/12, 13h45 | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | |
-| **6** | ven 18/12, 9h45 | [Ch11 Clustering](chapitres/ch11-clustering/) · [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | D3 publié |
-
-Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
-l'ouverture, à la pause et à la clôture.
-
 Ce cours est l'un des trois de la majeure Business Analytics. Voici le planning
 effectif du quadrimestre, avec les deux autres cours, en deux moitiés
 ([version complète](images/planning-majeure-2026-q1.png)).
@@ -101,6 +89,20 @@ effectif du quadrimestre, avec les deux autres cours, en deux moitiés
 **Du 4 au 18 décembre**
 
 ![Planning de la majeure, du 4 au 18 décembre](images/planning-majeure-2026-q1-b.png)
+
+Les six séances du cours, et ce qu'on y fait :
+
+| Séance | Date | Chapitres | Devoir |
+|---|---|---|---|
+| **1** | ven 13/11, 9h45 | [Ch1 Introduction](chapitres/ch01-introduction-data-science/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/) | D1 publié et démarré en séance |
+| **2** | ven 27/11, 9h45 | [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation](chapitres/ch04-transformation-variables/) | |
+| **3** | mar 01/12, 13h45 | [Ch5 Fondements](chapitres/ch05-fondements-supervise/) · [Ch6 Linéaires et arbres](chapitres/ch06-lineaires-arbres/) | **D1 dû** · D2 publié |
+| **4** | mar 15/12, 9h45 | [Ch7 Évaluation](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation](chapitres/ch08-validation-selection/) | |
+| **5** | mar 15/12, 13h45 | [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) | |
+| **6** | ven 18/12, 9h45 | [Ch11 Clustering](chapitres/ch11-clustering/) · [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/) + synthèse | D3 publié |
+
+Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
+l'ouverture, à la pause et à la clôture.
 
 **Échéances des devoirs** : D1 le **1er décembre**, D2 le **4 janvier**,
 D3 le **10 janvier**. Détails dans [`devoirs/`](devoirs/).
