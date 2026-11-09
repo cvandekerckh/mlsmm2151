@@ -6,7 +6,7 @@ l'essentiel pendant la séance 1.
 
 Si quelque chose bloque, la [table de dépannage](#dépannage) en bas de page
 couvre les cas rencontrés chaque année. Si elle ne suffit pas, levez la main en
-séance, ou ouvrez une [issue](https://github.com/cvandekerckh/mlsmm2151/issues).
+séance, ou écrivez à l'enseignant.
 
 ---
 
@@ -29,12 +29,15 @@ autorisations et vos copies de notebooks.
 
 ---
 
-## 2. En ouverture de la séance 1 : l'inscription
+## 2. L'inscription : votre pseudo GitHub
 
-Le lien d'un court formulaire est projeté au début de la séance : nom, prénom,
-NOMA et pseudo GitHub. Il n'est écrit nulle part ailleurs.
+Un court formulaire relie votre compte GitHub à votre nom : nom, prénom, NOMA
+et pseudo GitHub. Son lien vous est envoyé par e-mail (annonce Moodle) et
+redonné au premier cours ; il n'est pas publié ici. Remplissez-le dès que votre
+compte GitHub existe, avant la séance 1 si possible.
 
-Dans l'heure qui suit, vous recevez **deux invitations GitHub** :
+Une fois votre inscription traitée (au plus tard pendant la séance 1), vous
+recevez **deux invitations GitHub** :
 
 | Invitation | Pour quoi | Où l'accepter |
 |---|---|---|

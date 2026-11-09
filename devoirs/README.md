@@ -162,8 +162,7 @@ l'échéance : après, il n'y a plus grand-chose à faire.
 problème, arrêtez, faites autre chose, revenez-y. Si ça bloque encore, demandez.
 Perdre trois heures sur une erreur d'import n'apprend rien à personne.
 
-**Questions.** Pour une question qui concerne tout le monde, ouvrez une
-[issue](https://github.com/cvandekerckh/mlsmm2151/issues) sur le dépôt du cours :
+**Questions.** Pour une question qui concerne tout le monde, posez-la en séance :
 la réponse profitera aux autres. Pour ce qui vous concerne personnellement,
 écrivez à l'enseignant.
 

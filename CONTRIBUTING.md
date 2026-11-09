@@ -5,8 +5,8 @@ Ce dépôt a deux zones, avec des règles très différentes.
 - **Tout le dépôt, sauf `students/`**, est le matériel du cours. Il est mis à
   jour automatiquement par l'enseignant. Vous ne pouvez pas le modifier : une
   pull request qui touche un fichier en dehors de `students/` est bloquée
-  automatiquement. Pour signaler une erreur dans le cours, ouvrez une
-  [issue](https://github.com/cvandekerckh/mlsmm2151/issues).
+  automatiquement. Pour signaler une erreur dans le cours, dites-le en séance
+  ou par e-mail à l'enseignant.
 - **Le dossier [`students/`](students/) est à vous.** Vous y publiez ce que vous
   voulez partager : notes collectives, exercices, scripts utiles. Vous le
   structurez comme vous l'entendez. L'enseignant n'y intervient pas.

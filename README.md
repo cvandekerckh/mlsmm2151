@@ -122,24 +122,16 @@ ses notebooks. Le plan détaillé, section par section, est dans
 
 ## 🛠️ Prérequis
 
-- **Le cours [Data Analytics (MLSMM2116)](https://uclouvain.be/cours-2026-MLSMM2116)**, ou l'équivalent :
-  ce cours en est la suite appliquée et n'en refait pas la théorie.
+- **Le cours [Data Analytics (MLSMM2116)](https://uclouvain.be/cours-2026-MLSMM2116)**, ou l'équivalent.
 - **Des bases en Python.** Variables, listes, boucles, fonctions.
 - **Un compte Google**, pour utiliser Colab. Rien à installer sur votre machine.
 - **Un compte GitHub**, pour rendre les devoirs. Créez-le avant la séance 1 :
   [github.com/signup](https://github.com/signup).
 
-**Première chose à faire en séance 1 : l'inscription.** Le lien d'un court
-formulaire vous est donné en ouverture de séance : nom, prénom, NOMA et
-**pseudo GitHub**. C'est ainsi que votre compte GitHub est relié à votre nom,
-pour les devoirs comme pour le dossier [`students/`](students/). Dans l'heure
-qui suit, vous recevez deux invitations : l'une à collaborer sur ce dépôt,
-l'autre à votre dépôt privé du devoir 1. Une faute de frappe dans le pseudo ?
-Renvoyez simplement le formulaire : la dernière réponse fait foi.
-
-Le guide [`premiers-pas.md`](premiers-pas.md) détaille toute la mise en place,
-de la création du compte GitHub à votre premier commit depuis Colab, avec une
-table de dépannage. Lisez-le avant la séance 1, ou dès que quelque chose bloque.
+**Avant la séance 1, suivez le guide [`premiers-pas.md`](premiers-pas.md).** Il
+contient tout : la création du compte GitHub, le formulaire d'inscription qui
+relie votre pseudo à votre nom, les invitations à accepter, l'autorisation de
+Colab et votre premier commit, avec une table de dépannage.
 
 ---
 
@@ -199,10 +191,8 @@ Le dossier `students/` est le seul que vous pouvez modifier dans ce dépôt, et
 vous l'organisez comme vous voulez : notes, exercices, scripts à partager. Le
 fonctionnement est décrit dans [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-Il n'y a pas de groupe de discussion pour ce cours. Pour une question qui
-concerne tout le monde, ouvrez une
-[issue](https://github.com/cvandekerckh/mlsmm2151/issues) sur ce dépôt : la
-réponse profitera aux autres.
+Il n'y a pas de groupe de discussion pour ce cours. Les questions se posent en
+séance, où la réponse profite à tous, ou par e-mail à l'enseignant.
 
 ---
 
