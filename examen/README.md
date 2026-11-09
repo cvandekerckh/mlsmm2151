@@ -70,7 +70,7 @@ reflète l'importance à l'examen, pas le temps passé en séance.
 
 | Chapitre | Poids | Ce qui tombe |
 |---|---|---|
-| Ch1 Introduction | ● | Paradigmes, cycle de vie, régression contre classification |
+| Ch1 Le projet fil rouge | ● | Paradigmes, régression contre classification, les deux questions du fil rouge |
 | Ch2 Reproductibilité | ● | Reproductibilité, où vivent les données et pourquoi |
 | Ch3 Exploration et nettoyage | ●● | Diagnostic de qualité, manquants, aberrantes, et surtout **le raisonnement** derrière chaque traitement |
 | Ch4 Transformation | ●● | Encodage, mise à l'échelle, pipelines, pourquoi le pipeline évite une fuite |

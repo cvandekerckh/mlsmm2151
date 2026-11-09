@@ -50,7 +50,7 @@ qui vous sont propres. Vos chiffres ne seront pas ceux de votre voisin.
 
 ## Le travail demandé
 
-### 1. Cadrer le problème (chapitre 1)
+### 1. Cadrer le problème (chapitre 2)
 
 Reformulez la demande de la direction en **une question précise**, à laquelle
 des données peuvent répondre. Dites explicitement :

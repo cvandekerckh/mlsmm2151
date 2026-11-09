@@ -8,21 +8,19 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ## Partie I – Outils et environnement du Data Scientist
 
-### Chapitre 1 – Introduction à la Data Science appliquée *(séance 1, ven 13/11 matin)*
+### Chapitre 1 – Le projet fil rouge *(séance 1, ven 13/11 matin)*
 
-#### 1.1. De Data Analytics à la Data Science : ce qui a été posé, ce que ce cours en fait
-
-#### 1.2. Premier contact avec les données du cours
-
-#### 1.3. Reconnaître un projet qui échoue
-
-#### 1.4. Les trois paradigmes, en pratique
+#### 1.1. Les trois paradigmes, en pratique
 
 * Apprentissage supervisé : régression et classification
 * Apprentissage non supervisé
 * Apprentissage par renforcement, non traité
 
-#### 1.5. Présentation du projet fil rouge
+#### 1.2. Le projet fil rouge : des données réelles, deux questions
+
+* Le contexte et les deux questions du revenue management
+* Premier contact avec les données brutes
+* Les deux cibles dans la table de modélisation
 
 ---
 
