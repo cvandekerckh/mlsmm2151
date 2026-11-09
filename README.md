@@ -199,10 +199,10 @@ séance, où la réponse profite à tous, ou par e-mail à l'enseignant.
 ## 🤖 Utilisation des IA
 
 Certaines parties de ce matériel pédagogique ont été rédigées avec l'assistance
-d'outils d'intelligence artificielle, guidés par les consignes du fichier
-[`AGENTS.md`](AGENTS.md). L'ensemble des programmes, des explications et des
-exercices reste sous la responsabilité de l'enseignant, qui a validé chaque
-étape et vérifié que chaque notebook s'exécute.
+d'outils d'intelligence artificielle, selon un guide de style et de contenu
+fixé par l'enseignant. L'ensemble des programmes, des explications et des
+exercices reste sous sa responsabilité : il a validé chaque étape et vérifié que
+chaque notebook s'exécute.
 
 Votre propre usage de ces outils dans les devoirs est encadré, pas interdit :
 les règles sont dans [`devoirs/README.md`](devoirs/README.md). La règle
