@@ -8,7 +8,7 @@ Le pont avec le cours [Data Analytics (MLSMM2116)](https://uclouvain.be/cours-20
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | De Data Analytics à la Data Science | 45 min | *bientôt disponible, le 13/11* |
+| 1 | De Data Analytics à la Data Science | 45 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-introduction-data-science/01-de-data-analytics-a-la-data-science.ipynb) |
 
 ## Prérequis
 

@@ -1,0 +1,6 @@
+# Déjà présent sur Google Colab. Pour une installation locale :
+#   pip install -r requirements.txt
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.4
