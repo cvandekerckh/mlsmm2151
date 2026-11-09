@@ -10,13 +10,18 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ### Chapitre 1 – Le projet fil rouge *(séance 1, ven 13/11 matin)*
 
-#### 1.1. Les trois paradigmes, en pratique
+#### 1.1. La data science aujourd'hui, et ce qu'un algorithme y fait
+
+* Des données aux décisions
+* Règle écrite à la main, règle apprise sur des exemples
+
+#### 1.2. Les trois paradigmes, en pratique
 
 * Apprentissage supervisé : régression et classification
 * Apprentissage non supervisé
 * Apprentissage par renforcement, non traité
 
-#### 1.2. Le projet fil rouge : des données réelles, deux questions
+#### 1.3. Le projet fil rouge : des données réelles, deux questions
 
 * Le contexte et les deux questions du revenue management
 * Premier contact avec les données brutes

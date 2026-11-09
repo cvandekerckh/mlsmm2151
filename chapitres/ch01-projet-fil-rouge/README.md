@@ -2,13 +2,13 @@
 
 **Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 45 minutes**
 
-Les trois paradigmes, rappelés et mis à l'épreuve sur des demandes métier ; puis le projet qui occupe tout le cours : les annonces Airbnb de Bruxelles, les deux questions du revenue management, et un premier contact avec des données réelles, telles qu'elles arrivent.
+Ce que la data science décide aujourd'hui à notre place, et ce qu'un algorithme fait de différent d'une règle écrite à la main, sur un exemple à exécuter. Les trois paradigmes, rappelés et mis à l'épreuve sur des demandes métier ; puis le projet qui occupe tout le cours : les annonces Airbnb de Bruxelles, les deux questions du revenue management, et un premier contact avec des données réelles, telles qu'elles arrivent.
 
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Les paradigmes, les données et les deux questions | 45 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-projet-fil-rouge/01-paradigmes-donnees-et-questions.ipynb) |
+| 1 | La data science, les paradigmes et le projet fil rouge | 45 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch01-projet-fil-rouge/01-paradigmes-donnees-et-questions.ipynb) |
 
 ## Prérequis
 
