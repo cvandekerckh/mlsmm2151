@@ -1,7 +1,7 @@
 # Devoir 1 : Préparation des données
 
 **Matière** : chapitres 1 à 4 · **Poids** : 15 % de la note finale
-**Publié** le 13 novembre · **Dû le mardi 1er décembre à 23h59**
+**Publié** le 13 novembre · **Dû le dimanche 13 décembre à 23h59**
 
 Règles communes, garde-fous IA et modalités de remise :
 [`../README.md`](../README.md).

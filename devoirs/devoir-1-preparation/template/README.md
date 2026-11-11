@@ -2,7 +2,7 @@
 
 **MLSMM2151 Data Science** · chapitres 1 à 4 · 15 % de la note finale
 
-## ⏰ Échéance : mardi 1er décembre, 23h59
+## ⏰ Échéance : dimanche 13 décembre, 23h59
 
 Ce qui est dans ce dépôt à cette heure-là constitue votre rendu. **Il n'y a pas
 de bouton « rendre ».**
