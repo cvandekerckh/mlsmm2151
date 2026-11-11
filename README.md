@@ -96,7 +96,7 @@ effectif du quadrimestre, avec les deux autres cours, en deux moitiés
 ### Calendrier spécifique de ce cours
 
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
-l'ouverture, à la pause et à la clôture. La séance 1 en compte 105 : le reste
+l'ouverture, à la pause et à la clôture. La séance 1 en compte 110 : le reste
 va à l'inscription et à la mise en route de Colab et de GitHub. Les séances sont interactives : chaque
 notebook alterne explication, démonstration et **hack-time**, cinq à dix
 minutes pour modifier du code et regarder ce qui change. Venez avec un
