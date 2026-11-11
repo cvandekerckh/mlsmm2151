@@ -32,4 +32,6 @@ Voir le [chapitre 4 de `plan.md`](../../plan.md).
 
 ## Corrigés
 
-Publiés dans `corriges/` après la séance.
+Publiés dans `corriges/` après la séance, pour les notebooks 1 à 3. L'atelier
+du devoir 1 (notebook 4) n'a pas de corrigé : rien de ce qui touche à un devoir
+n'est corrigé publiquement.
