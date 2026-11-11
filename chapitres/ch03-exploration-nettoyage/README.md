@@ -4,9 +4,6 @@
 
 Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
-> ⚠️ Ce chapitre n'est pas encore rédigé. Les notebooks ci-dessous
-> existent mais sont vides ; leur contenu sera publié avant la séance 2.
-
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |

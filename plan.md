@@ -123,6 +123,10 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 #### 6.5. Interprétation des modèles linéaires et des arbres
 
+* Hack-time de retour sur le chapitre 4 : mesurer le gain d'une variable
+  créée au notebook « Créer et sélectionner des variables » (même modèle,
+  avec et sans elle). L'hypothèse vérifiée à l'œil devient une mesure.
+
 ---
 
 ### Chapitre 7 – Évaluation des modèles *(séance 4, mar 15/12 matin)*

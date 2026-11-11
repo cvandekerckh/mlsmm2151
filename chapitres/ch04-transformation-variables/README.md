@@ -4,9 +4,6 @@
 
 Transformer des colonnes en variables utilisables par un modèle, et enfermer ces transformations dans un pipeline reproductible. Le chapitre se termine par le démarrage du devoir 1, en séance.
 
-> ⚠️ Les notebooks 1 à 3 ne sont pas encore rédigés : ils existent mais sont
-> vides, et leur contenu sera publié avant la séance 2. Le notebook 4 est prêt.
-
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
