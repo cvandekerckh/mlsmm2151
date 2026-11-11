@@ -5,7 +5,7 @@ en session.
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| [D1 Préparation des données](devoir-1-preparation/) | Chapitres 1 à 4 | 13/11 | **dimanche 13 décembre, 23h59** | 15 % |
+| D1 Préparation des données *(bientôt disponible, le 27/11)* | Chapitres 1 à 4 | 27/11 | **dimanche 13 décembre, 23h59** | 15 % |
 | D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Chapitres 5 à 10 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
 | D3 Apprentissage non supervisé *(bientôt disponible, le 18/12)* | Chapitres 11 et 12 | 18/12 | **dimanche 10 janvier, 23h59** | 10 % |
 
@@ -35,7 +35,9 @@ Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
    votre push qui compte, pas la date inscrite dans le commit.
 
 Le chapitre 2 vous fait faire ce parcours en entier, en séance 1, avec le dépôt
-du devoir 1, et vous fait démarrer le devoir en séance. Si quelque chose bloque, c'est le moment de le dire.
+du devoir 1, distribué dès ce jour-là : l'énoncé, lui, arrive à la séance 2, une
+fois sa matière vue, et le chapitre 4 vous fait démarrer le devoir en séance.
+Si quelque chose bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 
@@ -181,7 +183,7 @@ python outils/inviter.py inscriptions.csv --inviter
 python outils/distribuer.py 1 inscriptions.csv --creer
 
 # Après l'échéance : le dernier push reçu avant l'heure, pour chaque étudiant
-python outils/collecter.py 1 inscriptions.csv --echeance 2026-12-01T23:59
+python outils/collecter.py 1 inscriptions.csv --echeance 2026-12-13T23:59
 ```
 
 `distribuer.py` crée `mlsmm2151-uclouvain/devoir-N-<pseudo>` à partir de

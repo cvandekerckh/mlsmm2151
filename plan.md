@@ -47,8 +47,6 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.8. Collaborer : branche, pull request, relecture
 
-Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
-
 ---
 
 ---
@@ -84,6 +82,8 @@ Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 #### 4.5. Sélection de variables
 
 #### 4.6. Pipelines de prétraitement avec Scikit-Learn
+
+Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 

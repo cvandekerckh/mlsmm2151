@@ -1,23 +1,26 @@
 # Chapitre 4 : Transformation et ingénierie des variables
 
-**Séance 2**, vendredi 27 novembre, matin · **Durée estimée : 75 minutes**
+**Séance 2**, vendredi 27 novembre, matin · **Durée estimée : 95 minutes**
 
-Transformer des colonnes en variables utilisables par un modèle, et enfermer ces transformations dans un pipeline reproductible.
+Transformer des colonnes en variables utilisables par un modèle, et enfermer ces transformations dans un pipeline reproductible. Le chapitre se termine par le démarrage du devoir 1, en séance.
 
-> ⚠️ Ce chapitre n'est pas encore rédigé. Les notebooks ci-dessous
-> existent mais sont vides ; leur contenu sera publié avant la séance 2.
+> ⚠️ Les notebooks 1 à 3 ne sont pas encore rédigés : ils existent mais sont
+> vides, et leur contenu sera publié avant la séance 2. Le notebook 4 est prêt.
 
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Encodage et mise à l'échelle | 25 min | *bientôt disponible, le 27/11* |
-| 2 | Créer et sélectionner des variables | 25 min | *bientôt disponible, le 27/11* |
-| 3 | Pipelines de prétraitement avec scikit-learn | 25 min | *bientôt disponible, le 27/11* |
+| 1 | Encodage et mise à l'échelle | 15 min | *bientôt disponible, le 27/11* |
+| 2 | Créer et sélectionner des variables | 15 min | *bientôt disponible, le 27/11* |
+| 3 | Pipelines de prétraitement avec scikit-learn | 20 min | *bientôt disponible, le 27/11* |
+| 4 | Démarrer le devoir 1 | 45 min | *bientôt disponible, le 27/11* |
+
+Le notebook 4 se fait dans votre dépôt de devoir, ouvert dans un second onglet : il donne les consignes et montre chaque geste sur les données Airbnb.
 
 ## Prérequis
 
-Chapitre 3.
+Chapitres 2 et 3.
 
 ## Pont avec Data Analytics
 

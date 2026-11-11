@@ -96,7 +96,8 @@ effectif du quadrimestre, avec les deux autres cours, en deux moitiés
 ### Calendrier spécifique de ce cours
 
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
-l'ouverture, à la pause et à la clôture. Les séances sont interactives : chaque
+l'ouverture, à la pause et à la clôture. La séance 1 en compte 105 : le reste
+va à l'inscription et à la mise en route de Colab et de GitHub. Les séances sont interactives : chaque
 notebook alterne explication, démonstration et **hack-time**, cinq à dix
 minutes pour modifier du code et regarder ce qui change. Venez avec un
 ordinateur.
@@ -104,11 +105,11 @@ ordinateur.
 | Date | Quoi |
 |---|---|
 | ven 13/11, 9h45 | **Séance 1** : [Ch1 Le projet fil rouge](chapitres/ch01-projet-fil-rouge/) · [Ch2 Reproductibilité et Git](chapitres/ch02-reproductibilite-git/) |
-| ven 13/11, en séance | **Lancement du devoir** : [D1 Préparation des données](devoirs/devoir-1-preparation/), démarré pendant le Ch2 |
 | ven 27/11, 9h45 | **Séance 2** : [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) · [Ch4 Transformation des variables](chapitres/ch04-transformation-variables/) |
+| ven 27/11, en séance | **Lancement du devoir** : D1 Préparation des données, démarré en fin de séance *(bientôt disponible, le 27/11)* |
 | mar 01/12, 13h45 | **Séance 3** : [Ch5 Fondements du supervisé](chapitres/ch05-fondements-supervise/) · [Ch6 Modèles linéaires et arbres](chapitres/ch06-lineaires-arbres/) |
 | mar 01/12, 13h45 | **Lancement du devoir** : D2 Modélisation supervisée *(bientôt disponible, le 01/12)* |
-| dim 13/12, 23h59 | **Remise du devoir** : [D1 Préparation des données](devoirs/devoir-1-preparation/) |
+| dim 13/12, 23h59 | **Remise du devoir** : D1 Préparation des données *(bientôt disponible, le 27/11)* |
 | mar 15/12, 9h45 | **Séance 4** : [Ch7 Évaluation des modèles](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation et sélection](chapitres/ch08-validation-selection/) |
 | mar 15/12, 13h45 | **Séance 5** : [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) |
 | ven 18/12, 9h45 | **Séance 6** : [Ch11 Clustering](chapitres/ch11-clustering/) · [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/), et synthèse du cours |
@@ -166,7 +167,7 @@ Les devoirs :
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| [D1 Préparation des données](devoirs/devoir-1-preparation/) | Ch1 à Ch4 | 13/11 | **13/12** | 15 % |
+| D1 Préparation des données *(bientôt disponible, le 27/11)* | Ch1 à Ch4 | 27/11 | **13/12** | 15 % |
 | D2 Modélisation supervisée *(bientôt disponible, le 01/12)* | Ch5 à Ch10 | 01/12 | **04/01** | 25 % |
 | D3 Apprentissage non supervisé *(bientôt disponible, le 18/12)* | Ch11 et Ch12 | 18/12 | **10/01** | 10 % |
 
