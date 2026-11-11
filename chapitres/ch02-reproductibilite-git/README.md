@@ -1,14 +1,14 @@
 # Chapitre 2 : Reproductibilité et développement professionnel
 
-**Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 60 minutes**
+**Séance 1**, vendredi 13 novembre, matin · **Durée estimée : 65 minutes**
 
-Organiser un projet, gérer ses dépendances, savoir où vivent les données et pourquoi jamais dans git, et utiliser Git et GitHub depuis Colab, seul puis à plusieurs par pull request. C'est le chapitre dont vous aurez besoin pour rendre chaque devoir : votre dépôt du devoir 1 vous est distribué en séance, et vous y poussez votre premier commit.
+Organiser un projet, gérer ses dépendances (et savoir ce qu'un environnement virtuel ou `uv` apportera au deuxième quadrimestre), choisir entre notebook et script, entre Colab et sa propre machine, savoir où vivent les données et pourquoi jamais dans git, et utiliser Git et GitHub depuis Colab, seul puis à plusieurs par pull request. C'est le chapitre dont vous aurez besoin pour rendre chaque devoir : votre dépôt du devoir 1 vous est distribué en séance, et vous y poussez votre premier commit.
 
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Structurer un projet et ses données | 25 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/01-structurer-un-projet-et-ses-donnees.ipynb) |
+| 1 | Structurer un projet et ses données | 30 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/01-structurer-un-projet-et-ses-donnees.ipynb) |
 | 2 | Git, GitHub et Colab | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch02-reproductibilite-git/02-git-github-colab.ipynb) |
 
 ## Prérequis

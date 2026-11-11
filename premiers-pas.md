@@ -115,8 +115,9 @@ github.com, ouvrez-le, cliquez sur le crayon, écrivez, puis `Commit changes`.
 
 ## 6. Le dossier `students/` du cours
 
-Le dépôt du cours est public et vous ne pouvez pas modifier le matériel. Mais
-le dossier `students/` est à vous : notes collectives, exercices, scripts à
+Le dépôt du cours est public. **En dehors de `students/`, vous ne touchez à
+rien** : une modification du matériel est refusée automatiquement. Le dossier
+`students/`, lui, est à vous : notes collectives, exercices, scripts à
 partager. On y travaille par branche et pull request, relue par un autre
 étudiant. Le fonctionnement est décrit dans [`CONTRIBUTING.md`](CONTRIBUTING.md),
 et le chapitre 2 vous le fait faire une première fois en séance.

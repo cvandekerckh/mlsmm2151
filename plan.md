@@ -33,9 +33,9 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.1. Organisation d’un projet de Data Science
 
-#### 2.2. Gestion des dépendances et environnements virtuels
+#### 2.2. Gestion des dépendances et environnements virtuels (pip, uv, pyenv : aperçu)
 
-#### 2.3. Notebooks versus scripts Python
+#### 2.3. Notebooks versus scripts Python, Colab versus machine locale
 
 #### 2.4. Où vivent les données : jamais dans un dépôt git
 
