@@ -163,6 +163,11 @@ prédire le prix d'une annonce (régression) et repérer les profils Superhost
 | **50 %** | Trois devoirs de programmation, rendus dans un dépôt GitHub privé |
 | **50 %** | Examen en session : QCM et questions ouvertes |
 
+> **Pas de seconde session.** Le cours est en évaluation continue : la moitié
+> de la note vient des devoirs remis pendant le quadrimestre. Il n'y a donc
+> **aucune possibilité d'améliorer la note du cours ensuite**, et aucune
+> seconde session n'est organisée.
+
 Les devoirs :
 
 | Devoir | Matière | Publié | Dû | Poids |
