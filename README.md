@@ -191,6 +191,10 @@ la séance et le publie dans [`students/`](students/) via une pull request,
 relue par un autre étudiant. Tout le monde peut compléter : liens évoqués,
 questions posées, commandes utiles, points restés obscurs.
 
+Les pads de cette année :
+
+- **Séance 1** (ven 13/11) : https://mensuel.framapad.org/p/3d1ffi6mcy-aomx?lang=fr
+
 Le dossier `students/` est le seul que vous pouvez modifier dans ce dépôt, et
 vous l'organisez comme vous voulez : notes, exercices, scripts à partager. Le
 fonctionnement est décrit dans [`CONTRIBUTING.md`](CONTRIBUTING.md).
