@@ -109,7 +109,7 @@ Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
 
 ---
 
-### Chapitre 6 – Modèles linéaires et arbres de décision *(séance 3, mar 01/12 après-midi)*
+### Chapitre 6 – Modèles linéaires et arbres de décision *(séance 4, mar 15/12 matin)*
 
 #### 6.1. Régression linéaire
 
@@ -167,7 +167,7 @@ Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
 
 ---
 
-### Chapitre 8 – Validation et sélection de modèles *(séance 4, mar 15/12 matin)*
+### Chapitre 8 – Validation et sélection de modèles *(séance 5, mar 15/12 après-midi)*
 
 #### 8.1. Hold-out Validation
 
@@ -212,33 +212,21 @@ Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
 
 ---
 
-### Chapitre 10 – Modèles supervisés avancés *(séance 5, mar 15/12 après-midi)*
-
-#### 10.1. K-Nearest Neighbours (KNN)
-
-#### 10.2. Support Vector Machines (SVM)
-
-#### 10.3. Réseaux de neurones artificiels
-
-#### 10.4. Perceptron multicouche (MLP) avec Keras
-
-#### 10.5. Choix d’un modèle adapté au problème
-
 ---
 
 ## Partie IV – Apprentissage non supervisé
 
-### Chapitre 11 – Clustering et segmentation *(séance 6, ven 18/12 matin)*
+### Chapitre 10 – Clustering et segmentation *(séance 6, ven 18/12 matin)*
 
-#### 11.1. Objectifs du clustering
+#### 10.1. Objectifs du clustering
 
-#### 11.2. K-Means
+#### 10.2. K-Means
 
-#### 11.3. Évaluation de la qualité des clusters
+#### 10.3. Évaluation de la qualité des clusters
 
-#### 11.4. DBSCAN
+#### 10.4. DBSCAN
 
-#### 11.5. Applications à la segmentation de clientèle
+#### 10.5. Applications à la segmentation de clientèle
 
 ---
 
@@ -246,21 +234,25 @@ Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
 
 ## Partie V – Représentation et réduction de dimension
 
-### Chapitre 12 – Réduction de dimension *(séance 6, ven 18/12 matin)*
+### Chapitre 11 – Réduction de dimension *(séance 6, ven 18/12 matin)*
 
-#### 12.1. Motivation et cas d’usage
+#### 11.1. Motivation et cas d’usage
 
-#### 12.2. Analyse en composantes principales (PCA)
+#### 11.2. Analyse en composantes principales (PCA)
 
-#### 12.3. Réduction de dimension dans un pipeline supervisé
+#### 11.3. Réduction de dimension dans un pipeline supervisé
 
-#### 12.4. Visualisation de données multidimensionnelles
+#### 11.4. Visualisation de données multidimensionnelles
 
-#### 12.5. Compression et simplification des données
+#### 11.5. Compression et simplification des données
 
 ---
 
 ## Note sur l'ordre des chapitres
+
+**Les modèles supervisés avancés (KNN, SVM, réseaux de neurones) ont été
+retirés du cours** en novembre 2026, pour redonner du temps aux chapitres qui
+précèdent. Les chapitres suivants ont été renumérotés.
 
 Par rapport à un découpage académique classique, deux déplacements ont été faits
 pour que l'ordre d'enseignement soit pédagogiquement tenable.

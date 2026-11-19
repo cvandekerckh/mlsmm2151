@@ -79,9 +79,8 @@ reflète l'importance à l'examen, pas le temps passé en séance.
 | **Ch7 Évaluation** | ●●●● | **Le chapitre le plus important.** Métriques, matrice de confusion, ROC contre précision-rappel, seuils de décision, choix de la métrique |
 | **Ch8 Validation** | ●●●● | Validation croisée, hyperparamètres, déséquilibre des classes, validation temporelle |
 | Ch9 Ensemble learning | ●● | Bagging contre boosting, ce que chacun corrige |
-| Ch10 Modèles avancés | ● | Grandes idées et critères de choix. Pas de calcul |
-| Ch11 Clustering | ●● | Choix du nombre de clusters, évaluation d'une segmentation, K-Means contre DBSCAN |
-| Ch12 Réduction de dimension | ●● | À quoi sert la PCA, comment interpréter des composantes |
+| Ch10 Clustering | ●● | Choix du nombre de clusters, évaluation d'une segmentation, K-Means contre DBSCAN |
+| Ch11 Réduction de dimension | ●● | À quoi sert la PCA, comment interpréter des composantes |
 
 Les chapitres 7 et 8 pèsent à eux deux environ un tiers de l'examen. C'est
 délibéré, et c'est la raison pour laquelle ils occupent une séance entière.

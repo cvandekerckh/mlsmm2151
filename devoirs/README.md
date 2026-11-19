@@ -6,16 +6,16 @@ en session.
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
 | [D1 Exploration et nettoyage](devoir-1-preparation/) | Chapitres 2 et 3 | 27/11 | **dimanche 13 décembre, 23h59** | 15 % |
-| [D2 Modélisation supervisée](devoir-2-supervise/) | Chapitres 4 à 10 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
-| [D3 Apprentissage non supervisé](devoir-3-non-supervise/) | Chapitres 11 et 12 | 18/12 | **dimanche 10 janvier, 23h59** | 10 % |
+| [D2 Modélisation supervisée](devoir-2-supervise/) | Chapitres 4 à 9 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
+| [D3 Apprentissage non supervisé](devoir-3-non-supervise/) | Chapitres 10 et 11 | 18/12 | **dimanche 10 janvier, 23h59** | 10 % |
 
 Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux.
 
-> **À propos du D2 et du calendrier.** Les chapitres 5 et 6 sont vus le
-> 1er décembre, les chapitres 7 à 10 le 15 décembre, et le D2 est dû le
-> 4 janvier. Les parties 1 et 2 sont faisables dès le 1er décembre, la partie 3
-> en partie ; le reste dépend du 15 décembre, et l'énoncé le signale question
-> par question. Commencez le 1er décembre, pas le 16.
+> **À propos du D2 et du calendrier.** Les chapitres 4 et 5 sont vus le
+> 1er décembre, les chapitres 6 à 9 le 15 décembre, et le D2 est dû le
+> 4 janvier. Les parties 1 et 2 sont faisables dès le 1er décembre ; le reste
+> dépend du 15 décembre, et l'énoncé le signale question par question.
+> Commencez le 1er décembre, pas le 16.
 
 ---
 

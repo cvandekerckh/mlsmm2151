@@ -1,4 +1,4 @@
-# Chapitre 11 : Clustering et segmentation
+# Chapitre 10 : Clustering et segmentation
 
 **Séance 6**, vendredi 18 décembre, matin · **Durée estimée : 75 minutes**
 
@@ -25,7 +25,7 @@ Data Analytics a présenté le clustering et K-Means. Ici : K-Means en pratique,
 
 ## Sections du plan couvertes
 
-Voir le [chapitre 11 de `plan.md`](../../plan.md).
+Voir le [chapitre 10 de `plan.md`](../../plan.md).
 
 ## Corrigés
 

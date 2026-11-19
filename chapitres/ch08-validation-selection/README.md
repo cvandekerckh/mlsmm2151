@@ -1,11 +1,11 @@
 # Chapitre 8 : Validation et sélection de modèles
 
-**Séance 4**, mardi 15 décembre, matin · **Durée estimée : 75 minutes**
+**Séance 5**, mardi 15 décembre, après-midi · **Durée estimée : 75 minutes**
 
 Savoir si un résultat tiendra sur des données jamais vues, et choisir entre plusieurs modèles sans se tromper soi-même.
 
 > ⚠️ Ce chapitre n'est pas encore rédigé. Les notebooks ci-dessous
-> existent mais sont vides ; leur contenu sera publié avant la séance 4.
+> existent mais sont vides ; leur contenu sera publié avant la séance 5.
 
 ## Notebooks
 

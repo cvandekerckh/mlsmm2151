@@ -1,18 +1,18 @@
 # Chapitre 6 : Modèles linéaires et arbres de décision
 
-**Séance 3**, mardi 1er décembre, après-midi · **Durée estimée : 75 minutes**
+**Séance 4**, mardi 15 décembre, matin · **Durée estimée : 75 minutes**
 
 Les premiers modèles, choisis pour être interprétables : on peut lire ce qu'ils ont appris.
 
 > ⚠️ Ce chapitre n'est pas encore rédigé. Les notebooks ci-dessous
-> existent mais sont vides ; leur contenu sera publié avant la séance 3.
+> existent mais sont vides ; leur contenu sera publié avant la séance 4.
 
 ## Notebooks
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Régression linéaire et régression logistique | 35 min | *bientôt disponible, le 01/12* |
-| 2 | Régularisation et arbres de décision | 40 min | *bientôt disponible, le 01/12* |
+| 1 | Régression linéaire et régression logistique | 35 min | *bientôt disponible, le 15/12* |
+| 2 | Régularisation et arbres de décision | 40 min | *bientôt disponible, le 15/12* |
 
 ## Prérequis
 

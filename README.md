@@ -97,7 +97,8 @@ effectif du quadrimestre, avec les deux autres cours, en deux moitiés
 
 Chaque séance compte 150 minutes de notebooks ; les 30 minutes restantes vont à
 l'ouverture, à la pause et à la clôture. La séance 1 en a compté 75 : le reste
-est allé à l'inscription et à la mise en route de Colab. Les séances sont interactives : chaque
+est allé à l'inscription et à la mise en route de Colab. La séance 3 en compte
+125, le reste allant au lancement du devoir 2. Les séances sont interactives : chaque
 notebook alterne explication, démonstration et **hack-time**, cinq à dix
 minutes pour modifier du code et regarder ce qui change. Venez avec un
 ordinateur.
@@ -107,12 +108,12 @@ ordinateur.
 | ven 13/11, 9h45 | **Séance 1** : [Ch1 Le projet fil rouge](chapitres/ch01-projet-fil-rouge/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/), notebook 1 |
 | ven 27/11, 9h45 | **Séance 2** : [Ch2 Git et GitHub](chapitres/ch02-reproductibilite-git/), notebook 2 et tutoriel GitHub Desktop · [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) |
 | ven 27/11, en séance | **Lancement du devoir** : [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/), démarré en fin de séance |
-| mar 01/12, 13h45 | **Séance 3** : [Ch4 Transformation des variables](chapitres/ch04-transformation-variables/) · [Ch5 Fondements du supervisé](chapitres/ch05-fondements-supervise/) · [Ch6 Modèles linéaires et arbres](chapitres/ch06-lineaires-arbres/) |
+| mar 01/12, 13h45 | **Séance 3** : [Ch4 Transformation des variables](chapitres/ch04-transformation-variables/) · [Ch5 Fondements du supervisé](chapitres/ch05-fondements-supervise/) |
 | mar 01/12, 13h45 | **Lancement du devoir** : [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) |
 | dim 13/12, 23h59 | **Remise du devoir** : [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/) |
-| mar 15/12, 9h45 | **Séance 4** : [Ch7 Évaluation des modèles](chapitres/ch07-evaluation-modeles/) · [Ch8 Validation et sélection](chapitres/ch08-validation-selection/) |
-| mar 15/12, 13h45 | **Séance 5** : [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) · [Ch10 Modèles avancés](chapitres/ch10-modeles-avances/) |
-| ven 18/12, 9h45 | **Séance 6** : [Ch11 Clustering](chapitres/ch11-clustering/) · [Ch12 Réduction de dimension](chapitres/ch12-reduction-dimension/), et synthèse du cours |
+| mar 15/12, 9h45 | **Séance 4** : [Ch6 Modèles linéaires et arbres](chapitres/ch06-lineaires-arbres/) · [Ch7 Évaluation des modèles](chapitres/ch07-evaluation-modeles/) |
+| mar 15/12, 13h45 | **Séance 5** : [Ch8 Validation et sélection](chapitres/ch08-validation-selection/) · [Ch9 Ensemble learning](chapitres/ch09-ensemble-learning/) |
+| ven 18/12, 9h45 | **Séance 6** : [Ch10 Clustering](chapitres/ch10-clustering/) · [Ch11 Réduction de dimension](chapitres/ch11-reduction-dimension/), et synthèse du cours |
 | ven 18/12, 9h45 | **Lancement du devoir** : [D3 Apprentissage non supervisé](devoirs/devoir-3-non-supervise/) |
 | lun 04/01, 23h59 | **Remise du devoir** : [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) |
 | dim 10/01, 23h59 | **Remise du devoir** : [D3 Apprentissage non supervisé](devoirs/devoir-3-non-supervise/) |
@@ -174,8 +175,8 @@ Les devoirs :
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
 | [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/) | Ch2 et Ch3 | 27/11 | **13/12** | 15 % |
-| [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) | Ch4 à Ch10 | 01/12 | **04/01** | 25 % |
-| [D3 Apprentissage non supervisé](devoirs/devoir-3-non-supervise/) | Ch11 et Ch12 | 18/12 | **10/01** | 10 % |
+| [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) | Ch4 à Ch9 | 01/12 | **04/01** | 25 % |
+| [D3 Apprentissage non supervisé](devoirs/devoir-3-non-supervise/) | Ch10 et Ch11 | 18/12 | **10/01** | 10 % |
 
 Les devoirs ne sont pas évalués sur le seul fait que le code tourne. La qualité
 des choix méthodologiques, la clarté des explications, la reproductibilité et la

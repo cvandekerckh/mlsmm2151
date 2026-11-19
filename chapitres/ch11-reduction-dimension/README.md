@@ -1,4 +1,4 @@
-# Chapitre 12 : Réduction de dimension
+# Chapitre 11 : Réduction de dimension
 
 **Séance 6**, vendredi 18 décembre, matin · **Durée estimée : 75 minutes**
 
@@ -25,7 +25,7 @@ Data Analytics a cité la réduction de dimension parmi les tâches non supervis
 
 ## Sections du plan couvertes
 
-Voir le [chapitre 12 de `plan.md`](../../plan.md).
+Voir le [chapitre 11 de `plan.md`](../../plan.md).
 
 ## Corrigés
 
