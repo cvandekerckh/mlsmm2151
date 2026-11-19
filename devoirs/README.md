@@ -5,8 +5,8 @@ en session.
 
 | Devoir | Matière | Publié | Dû | Poids |
 |---|---|---|---|---|
-| [D1 Préparation des données](devoir-1-preparation/) | Chapitres 1 à 4 | 27/11 | **dimanche 13 décembre, 23h59** | 15 % |
-| [D2 Modélisation supervisée](devoir-2-supervise/) | Chapitres 5 à 10 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
+| [D1 Exploration et nettoyage](devoir-1-preparation/) | Chapitres 2 et 3 | 27/11 | **dimanche 13 décembre, 23h59** | 15 % |
+| [D2 Modélisation supervisée](devoir-2-supervise/) | Chapitres 4 à 10 | 01/12 | **lundi 4 janvier, 23h59** | 25 % |
 | [D3 Apprentissage non supervisé](devoir-3-non-supervise/) | Chapitres 11 et 12 | 18/12 | **dimanche 10 janvier, 23h59** | 10 % |
 
 Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux.
@@ -29,15 +29,18 @@ Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
    `mlsmm2151-uclouvain/devoir-N-votre-pseudo`, pré-rempli avec le squelette du
    devoir, et vous y invite. Acceptez l'invitation, reçue par e-mail et sur
    github.com. Seuls vous et l'enseignant y avez accès.
-3. Vous travaillez dedans, en poussant vos commits **au fur et à mesure**.
+3. Vous travaillez dedans, en poussant vos commits **au fur et à mesure** :
+   Colab exécute votre notebook, GitHub Desktop l'enregistre dans votre dépôt.
+   Le [tutoriel du chapitre 2](../chapitres/ch02-reproductibilite-git/03-tutoriel-github-desktop.md)
+   installe tout cela en séance 2.
 4. **Il n'y a pas de bouton « rendre ».** Ce qui est dans votre dépôt à l'heure
    de l'échéance constitue votre rendu. C'est l'heure à laquelle GitHub reçoit
    votre push qui compte, pas la date inscrite dans le commit.
 
-Le chapitre 2 vous fait faire ce parcours en entier, en séance 1, avec le dépôt
-du devoir 1, distribué dès ce jour-là : l'énoncé, lui, arrive à la séance 2, une
-fois sa matière vue, et le chapitre 4 vous fait démarrer le devoir en séance.
-Si quelque chose bloque, c'est le moment de le dire.
+Le chapitre 2 vous fait faire ce parcours en entier, en séance 2, avec le dépôt
+du devoir 1, distribué la veille ; l'énoncé est publié le matin même, et le
+chapitre 3 vous fait démarrer le devoir en fin de séance. Si quelque chose
+bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 
@@ -178,7 +181,7 @@ du formulaire d'inscription (colonnes `Nom`, `Prénom`, `NOMA`,
 son option.
 
 ```bash
-# Séance 1, pendant le Ch1 : accès à students/, puis dépôts du devoir 1
+# La veille de la séance 2 : accès à students/, puis dépôts du devoir 1
 python outils/inviter.py inscriptions.csv --inviter
 python outils/distribuer.py 1 inscriptions.csv --creer
 
@@ -192,6 +195,6 @@ dépôts existants : c'est ainsi qu'on ajoute un retardataire. `collecter.py` se
 fie à l'heure de réception des pushes par GitHub, et peut donc tourner après
 l'échéance. Il écrit une copie de chaque rendu et un récapitulatif CSV.
 
-Vérification avant chaque devoir : créer un dépôt pour un compte de test,
-ouvrir `notebook.ipynb` dans Colab avec ce compte, remplacer `VOTRE_MATRICULE`,
-et vérifier que la cellule de chargement des données aboutit.
+Vérification avant chaque devoir : créer un dépôt pour un compte de test, le
+cloner avec GitHub Desktop, importer `notebook.ipynb` dans Colab, remplacer
+`VOTRE_MATRICULE`, et vérifier que la cellule de chargement des données aboutit.

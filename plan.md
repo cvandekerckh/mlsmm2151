@@ -29,7 +29,7 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ---
 
-### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, ven 13/11 matin)*
+### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, ven 13/11 matin, puis séance 2, ven 27/11 matin pour 2.5 à 2.8)*
 
 #### 2.1. Organisation d’un projet de Data Science
 
@@ -41,11 +41,13 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.5. Git et GitHub
 
-#### 2.6. Travailler avec GitHub depuis Colab
+#### 2.6. Le cycle de travail du devoir : Colab exécute, GitHub Desktop enregistre
 
 #### 2.7. Rendre un devoir sur GitHub
 
-#### 2.8. Collaborer : branche, pull request, relecture
+Tutoriel en séance : préparer le devoir 1 avec Colab et GitHub Desktop (45 minutes).
+
+#### 2.8. Pour aller plus loin : branches, pull requests, et le dossier `students/`
 
 ---
 
@@ -67,9 +69,11 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 3.6. Traitement des variables temporelles
 
+Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
+
 ---
 
-### Chapitre 4 – Transformation et ingénierie des variables *(séance 2, ven 27/11 matin)*
+### Chapitre 4 – Transformation et ingénierie des variables *(séance 3, mar 01/12 après-midi)*
 
 #### 4.1. Encodage des variables catégorielles
 
@@ -82,8 +86,6 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 #### 4.5. Sélection de variables
 
 #### 4.6. Pipelines de prétraitement avec Scikit-Learn
-
-Atelier de fin de séance : démarrer le devoir 1 (45 minutes).
 
 ---
 

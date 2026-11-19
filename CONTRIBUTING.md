@@ -33,9 +33,6 @@ travaillez ensuite directement ici, en trois temps.
    La pull request ne peut être fusionnée qu'après son approbation. Une fois
    approuvée, l'auteur ou le relecteur clique sur `Merge pull request`.
 
-Depuis Colab, `Fichier` > `Enregistrer une copie dans GitHub` permet aussi de
-choisir ce dépôt, une nouvelle branche, et un chemin dans `students/`.
-
 **Relire, c'est quoi ?** Ouvrir les fichiers modifiés, vérifier que c'est
 lisible et correct, laisser un commentaire si quelque chose cloche, puis
 `Review changes` > `Approve`. Pas de complaisance : une relecture utile trouve
