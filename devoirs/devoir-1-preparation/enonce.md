@@ -5,8 +5,8 @@
 
 Règles communes, garde-fous IA et modalités de remise :
 [`../README.md`](../README.md). Le cycle de travail (Colab, puis GitHub
-Desktop) est dans le [tutoriel](tutoriel.md), et l'[atelier](README.md) fait
-en séance vous lance sur la partie 1.
+Desktop) est dans le [tutoriel](tutoriel.md). Les 35 dernières minutes de la
+séance 2 sont réservées à la partie 1, en séance.
 
 ---
 
@@ -33,9 +33,6 @@ qu'elle permet et ne permet pas.
 ## Les données
 
 ```python
-from sujet import mon_sujet
-sujet = mon_sujet("VOTRE_MATRICULE")
-
 !curl -fsSL -o donnees.py https://raw.githubusercontent.com/cvandekerckh/mlsmm2151/main/utils/donnees.py
 from donnees import charger
 
@@ -47,8 +44,8 @@ transactions = charger("devoir1")
 Le fichier est brut. Il pèse 48 Mo : chargez-le une fois, et montez votre Google
 Drive si vous ne voulez pas le retélécharger à chaque session.
 
-`mon_sujet` vous attribue une **période d'analyse** et un **pays de référence**
-qui vous sont propres. Vos chiffres ne seront pas ceux de votre voisin.
+Les données et les consignes sont les mêmes pour tout le monde. Ce qui vous
+distingue, c'est la qualité du raisonnement et des justifications.
 
 ---
 
@@ -93,18 +90,20 @@ votre raisonnement plus que sur votre décision :
 `InvoiceDate` est du texte. Convertissez-le, puis construisez au moins trois
 variables temporelles exploitables et dites à quoi chacune sert.
 
-Restreignez ensuite votre analyse à la **période attribuée par `mon_sujet`**.
+Restreignez ensuite votre analyse à **l'année civile 2011** : le fichier
+commence en décembre 2010, et ce mois d'une autre année fausserait les
+comparaisons mensuelles.
 
 ### 4. Livrer la table nettoyée (chapitre 3)
 
 Appliquez les décisions des parties 2 et 3, dans l'ordre, et livrez la table
-qui en résulte : des transactions propres, sur votre période. Accompagnez-la :
+qui en résulte : des transactions propres, sur 2011. Accompagnez-la :
 
 - d'un **bilan chiffré** : combien de lignes au départ, combien retirées à
   chaque décision et pourquoi, combien à l'arrivée. Une table de quelques
   lignes suffit ;
 - d'un **résumé par pays** (nombre de transactions, chiffre d'affaires), qui
-  situe votre **pays de référence** par rapport aux autres ;
+  situe le Royaume-Uni par rapport aux autres marchés ;
 - de **deux graphiques** au moins, titrés, axes nommés, chacun suivi d'une
   phrase de lecture.
 
@@ -135,7 +134,6 @@ Dans votre dépôt de devoir, à l'heure de l'échéance :
 ## Checklist avant de rendre
 
 - [ ] `Redémarrer et tout exécuter` : aucune erreur, du début à la fin.
-- [ ] Mon matricule est bien celui passé à `mon_sujet`.
 - [ ] La liste `Changes` de GitHub Desktop ne montre aucun `.csv`.
 - [ ] `REFLEXION.md` répond aux quatre questions, y compris l'usage de l'IA.
 - [ ] Chaque décision de nettoyage est justifiée en une phrase au moins.

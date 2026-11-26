@@ -38,9 +38,9 @@ Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
    votre push qui compte, pas la date inscrite dans le commit.
 
 Vous faites ce parcours en entier en séance 2, avec le dépôt du devoir 1,
-distribué la veille : le tutoriel le matin, l'atelier de démarrage en fin de
+distribué la veille : le tutoriel le matin, et la partie 1 du devoir en fin de
 séance. Tout ce qui concerne un devoir est dans son dossier : énoncé, grille,
-tutoriel, atelier. Si quelque chose bloque, c'est le moment de le dire.
+tutoriel. Si quelque chose bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 
@@ -48,14 +48,14 @@ tutoriel, atelier. Si quelque chose bloque, c'est le moment de le dire.
 README.md          L'énoncé et la checklist de remise
 notebook.ipynb     Le squelette à compléter
 REFLEXION.md       Obligatoire. Votre démarche, vos choix, vos limites
-sujet.py           Tire votre variante individuelle à partir de votre matricule
+sujet.py           Devoirs 2 et 3 : tire votre variante individuelle de votre matricule
 requirements.txt
 .gitignore         Exclut les données. Ne le modifiez pas
 ```
 
-### Votre variante individuelle
+### Votre variante individuelle (devoirs 2 et 3)
 
-Chaque devoir commence par :
+Le devoir 1 est le même pour tout le monde. Les devoirs 2 et 3 commencent par :
 
 ```python
 from sujet import mon_sujet

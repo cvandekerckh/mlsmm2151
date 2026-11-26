@@ -28,7 +28,6 @@ de bouton « rendre ».**
 |---|---|
 | `notebook.ipynb` | Le squelette à compléter. C'est votre rendu principal |
 | `REFLEXION.md` | **Obligatoire.** Sans lui, le devoir n'est pas corrigé |
-| `sujet.py` | Tire votre variante individuelle. Ne le modifiez pas |
 | `requirements.txt` | Les bibliothèques nécessaires |
 | `.gitignore` | Empêche de commiter des données. Ne le modifiez pas |
 

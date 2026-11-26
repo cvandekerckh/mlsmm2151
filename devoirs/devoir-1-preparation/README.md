@@ -9,13 +9,12 @@ rencontrerez :
 | Étape | Quoi | Quand | Durée | Ouvrir |
 |---|---|---|---|---|
 | 1 | **Tutoriel** : installer GitHub Desktop, cloner votre dépôt, pousser votre premier commit | Séance 2, après le notebook 2 du chapitre 2 | 45 min | [Lire](tutoriel.md) |
-| 2 | **Atelier de démarrage** : variante individuelle, cadrage, premier diagnostic, deux commits | Séance 2, après le chapitre 3 | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/devoirs/devoir-1-preparation/atelier.ipynb) |
-| 3 | **Énoncé** : les cinq parties du devoir et la checklist de remise | À lire dès la séance 2 | | [Lire](enonce.md) |
-| 4 | **Grille de correction** : ce qui rapporte des points, et ce qui en coûte | Avant de rendre | | [Lire](grille.md) |
+| 2 | **Énoncé** : les cinq parties du devoir et la checklist de remise. La partie 1 se fait en séance | Séance 2, les 35 dernières minutes | | [Lire](enonce.md) |
+| 3 | **Grille de correction** : ce qui rapporte des points, et ce qui en coûte | Avant de rendre | | [Lire](grille.md) |
 
-L'atelier se suit dans Colab, dans un second onglet à côté de votre
-`notebook.ipynb` : il montre chaque geste sur les données Airbnb du cours, vous
-le refaites sur vos données.
+Le devoir est **un seul notebook**, `notebook.ipynb`, le même pour tout le
+monde, que vous complétez section par section dans Colab, plus le fichier
+`REFLEXION.md`. Rien d'autre à gérer.
 
 Le travail se fait dans votre dépôt privé `mlsmm2151-uclouvain/devoir-1-<pseudo>`,
 dont le contenu initial est le dossier [`template/`](template/). Règles

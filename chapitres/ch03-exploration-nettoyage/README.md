@@ -2,7 +2,7 @@
 
 **Séance 2**, vendredi 27 novembre, matin · **Durée estimée : 55 minutes**
 
-Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir. La séance se termine par l'[atelier de démarrage du devoir 1](../../devoirs/devoir-1-preparation/), qui applique ce chapitre à vos propres données.
+Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir. La séance se termine par 35 minutes de démarrage du [devoir 1](../../devoirs/devoir-1-preparation/), qui applique ce chapitre à d'autres données.
 
 ## Notebooks
 

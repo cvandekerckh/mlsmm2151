@@ -45,8 +45,7 @@ sur [github.com/notifications](https://github.com/notifications) et à
 l'adresse `github.com/mlsmm2151-uclouvain/devoir-1-<pseudo>/invitations`.
 
 Cliquez sur `Accept invitation`. La page du dépôt s'ouvre : vous y voyez
-`README.md`, `notebook.ipynb`, `REFLEXION.md`, `sujet.py` et
-`requirements.txt`. Seuls vous et l'enseignant y ont accès.
+`README.md`, `notebook.ipynb`, `REFLEXION.md` et `requirements.txt`. Seuls vous et l'enseignant y ont accès.
 
 ## 2. Installer GitHub Desktop et vous connecter
 
@@ -83,9 +82,8 @@ qui suit consiste à y mettre vos fichiers à jour.
 2. `Fichier` > `Importer le notebook`, onglet `Importer`, puis `Parcourir` :
    choisissez `notebook.ipynb` **dans le dossier de votre dépôt**.
 3. Le notebook s'ouvre. Dans la première cellule, renseignez votre nom, votre
-   prénom et votre matricule. Dans la cellule de code suivante, remplacez
-   `VOTRE_MATRICULE` par votre matricule, et exécutez-la : elle affiche votre
-   variante individuelle.
+   prénom et votre matricule. Exécutez ensuite la cellule « Préparation » :
+   elle télécharge les données et en affiche les premières lignes.
 
 Deux choses à ne pas faire :
 
@@ -172,9 +170,9 @@ dans le dépôt. Le notebook les retélécharge.
 - [ ] Sur github.com, l'onglet `Commits` montre « Renseigne mon nom et mon
       matricule ».
 
-**La suite** : en fin de séance, l'[atelier de démarrage](README.md) vous fait
-écrire les premières cellules du devoir dans ce dépôt, avec le chapitre 3 en
-main.
+**La suite** : en fin de séance, 35 minutes pour démarrer le devoir dans ce
+même notebook, l'[énoncé](enonce.md) sous les yeux : la partie 1, puis un
+commit.
 
 ---
 

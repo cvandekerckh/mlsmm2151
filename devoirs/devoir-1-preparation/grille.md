@@ -27,7 +27,7 @@ Note sur 20, ramenée à 15 % de la note finale.
 
 - Les cinq problèmes obligatoires sont traités, avec un comptage chiffré (2 pts)
 - Chaque décision est justifiée, y compris quand elle consiste à ne rien faire (2 pts)
-- `InvoiceDate` est converti, les variables temporelles sont utiles et la période attribuée est respectée (1 pt)
+- `InvoiceDate` est converti, les variables temporelles sont utiles et l'analyse est restreinte à l'année 2011 (1 pt)
 - La table livrée applique les décisions annoncées, et le bilan chiffré correspond au code (1 pt)
 
 Une suppression massive non justifiée (« j'ai retiré les lignes sans client »)
@@ -60,7 +60,6 @@ coûte des points même si le code est correct.
 | | |
 |---|---|
 | **+1** | Un problème de qualité trouvé qui n'était pas dans la liste, et bien analysé |
-| **+1** | Un résumé par pays qui va au-delà du comptage et dit quelque chose du pays de référence |
-| **-2** | Variante individuelle non utilisée, ou matricule d'un autre étudiant |
+| **+1** | Un résumé par pays qui va au-delà du comptage et dit quelque chose d'un marché hors Royaume-Uni |
 | **-2** | Usage d'IA non déclaré alors qu'il est manifeste |
 | **0** | Incapacité à expliquer son propre code lors d'une vérification orale |

@@ -67,7 +67,7 @@ Suivi en séance du tutoriel du devoir 1 (`devoirs/devoir-1-preparation/tutoriel
 
 #### 3.6. Traitement des variables temporelles
 
-Suivi en fin de séance de l'atelier de démarrage du devoir 1 (`devoirs/devoir-1-preparation/atelier.ipynb`, 35 minutes).
+Les 35 dernières minutes de la séance : démarrage du devoir 1 dans le notebook du devoir (partie 1, premier commit).
 
 ---
 

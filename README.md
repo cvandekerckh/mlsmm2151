@@ -107,7 +107,7 @@ ordinateur.
 |---|---|
 | ven 13/11, 9h45 | **Séance 1** : [Ch1 Le projet fil rouge](chapitres/ch01-projet-fil-rouge/) · [Ch2 Reproductibilité](chapitres/ch02-reproductibilite-git/), notebook 1 |
 | ven 27/11, 9h45 | **Séance 2** : [Ch2 Git et GitHub](chapitres/ch02-reproductibilite-git/), notebook 2 · [Ch3 Exploration et nettoyage](chapitres/ch03-exploration-nettoyage/) |
-| ven 27/11, en séance | **Lancement du devoir** : [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/), en deux temps : le [tutoriel](devoirs/devoir-1-preparation/tutoriel.md) après le chapitre 2, l'atelier de démarrage après le chapitre 3 |
+| ven 27/11, en séance | **Lancement du devoir** : [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/), en deux temps : le [tutoriel](devoirs/devoir-1-preparation/tutoriel.md) après le chapitre 2, puis 35 minutes pour démarrer le notebook du devoir après le chapitre 3 |
 | mar 01/12, 13h45 | **Séance 3** : [Ch4 Transformation des variables](chapitres/ch04-transformation-variables/) · [Ch5 Fondements du supervisé](chapitres/ch05-fondements-supervise/) |
 | mar 01/12, 13h45 | **Lancement du devoir** : [D2 Modélisation supervisée](devoirs/devoir-2-supervise/) |
 | dim 13/12, 23h59 | **Remise du devoir** : [D1 Exploration et nettoyage](devoirs/devoir-1-preparation/) |
