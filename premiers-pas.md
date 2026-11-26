@@ -75,7 +75,7 @@ Vous y travaillez en deux temps : Colab exécute votre notebook, et
 l'enregistre dans le dépôt et l'envoie sur GitHub.
 
 Tout cela s'installe en séance 2, en suivant pas à pas le
-[tutoriel du chapitre 2](chapitres/ch02-reproductibilite-git/03-tutoriel-github-desktop.md).
+[tutoriel du devoir 1](devoirs/devoir-1-preparation/tutoriel.md).
 Il vous faudra ce jour-là un ordinateur sur lequel vous pouvez installer un
 logiciel. Si ce n'est pas possible, le tutoriel donne une solution de repli,
 sans installation.
@@ -123,4 +123,4 @@ Après le tutoriel de la séance 2 :
 | Je n'ai reçu aucune invitation | Formulaire pas rempli, rempli après la relance, pseudo mal tapé, ou e-mail GitHub non confirmé | Vérifiez votre pseudo dans `github.com/<pseudo>`, renvoyez le formulaire si besoin, et regardez [github.com/notifications](https://github.com/notifications) : les invitations y sont même sans e-mail |
 | L'invitation a expiré | Plus de sept jours | Levez la main : elle est renvoyée en une commande |
 | Colab me demande de me connecter avec un autre compte Google | Plusieurs comptes Google ouverts dans le navigateur | Choisissez un compte et gardez-le pendant tout le cours |
-| GitHub Desktop, Colab, le téléchargement du notebook, un `.csv` dans mon dépôt | | Voir la [table de dépannage du tutoriel](chapitres/ch02-reproductibilite-git/03-tutoriel-github-desktop.md#dépannage) |
+| GitHub Desktop, Colab, le téléchargement du notebook, un `.csv` dans mon dépôt | | Voir la [table de dépannage du tutoriel](devoirs/devoir-1-preparation/tutoriel.md#dépannage) |

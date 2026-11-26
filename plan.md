@@ -45,7 +45,7 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.7. Rendre un devoir sur GitHub
 
-Tutoriel en séance : préparer le devoir 1 avec Colab et GitHub Desktop (45 minutes).
+Suivi en séance du tutoriel du devoir 1 (`devoirs/devoir-1-preparation/tutoriel.md`, 45 minutes).
 
 #### 2.8. Pour aller plus loin : branches, pull requests, et le dossier `students/`
 
@@ -69,7 +69,7 @@ Tutoriel en séance : préparer le devoir 1 avec Colab et GitHub Desktop (45 min
 
 #### 3.6. Traitement des variables temporelles
 
-Atelier de fin de séance : démarrer le devoir 1 (35 minutes).
+Suivi en fin de séance de l'atelier de démarrage du devoir 1 (`devoirs/devoir-1-preparation/atelier.ipynb`, 35 minutes).
 
 ---
 

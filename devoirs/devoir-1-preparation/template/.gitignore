@@ -1,0 +1,23 @@
+# Aucune donnée dans ce dépôt. Ne modifiez pas ce fichier.
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.xls
+*.zip
+*.gz
+
+# Modèles entraînés et artefacts lourds
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Système
+.DS_Store

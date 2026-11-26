@@ -31,16 +31,16 @@ Chaque devoir se rend dans **un dépôt GitHub privé à votre nom**.
    github.com. Seuls vous et l'enseignant y avez accès.
 3. Vous travaillez dedans, en poussant vos commits **au fur et à mesure** :
    Colab exécute votre notebook, GitHub Desktop l'enregistre dans votre dépôt.
-   Le [tutoriel du chapitre 2](../chapitres/ch02-reproductibilite-git/03-tutoriel-github-desktop.md)
-   installe tout cela en séance 2.
+   Le [tutoriel du devoir 1](devoir-1-preparation/tutoriel.md) installe tout
+   cela en séance 2.
 4. **Il n'y a pas de bouton « rendre ».** Ce qui est dans votre dépôt à l'heure
    de l'échéance constitue votre rendu. C'est l'heure à laquelle GitHub reçoit
    votre push qui compte, pas la date inscrite dans le commit.
 
-Le chapitre 2 vous fait faire ce parcours en entier, en séance 2, avec le dépôt
-du devoir 1, distribué la veille ; l'énoncé est publié le matin même, et le
-chapitre 3 vous fait démarrer le devoir en fin de séance. Si quelque chose
-bloque, c'est le moment de le dire.
+Vous faites ce parcours en entier en séance 2, avec le dépôt du devoir 1,
+distribué la veille : le tutoriel le matin, l'atelier de démarrage en fin de
+séance. Tout ce qui concerne un devoir est dans son dossier : énoncé, grille,
+tutoriel, atelier. Si quelque chose bloque, c'est le moment de le dire.
 
 ### Ce que contient votre dépôt
 

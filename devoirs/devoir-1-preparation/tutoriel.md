@@ -1,6 +1,6 @@
 # Tutoriel : préparer le devoir 1 avec Colab et GitHub Desktop
 
-*MLSMM2151 Data Science · Séance 2, vendredi 27 novembre · Chapitre 2, après le notebook 2 · 45 minutes*
+*MLSMM2151 Data Science · Devoir 1, étape 1 · Séance 2, vendredi 27 novembre, après le notebook 2 du chapitre 2 · 45 minutes*
 
 Ce tutoriel installe, une fois pour toutes, la façon dont vous travaillerez
 sur les trois devoirs : **Colab exécute votre notebook, GitHub Desktop
@@ -119,7 +119,7 @@ Revenez dans GitHub Desktop. L'onglet `Changes`, à gauche, montre
 `notebook.ipynb` : c'est le fichier qui a changé depuis le dernier commit.
 Cliquez dessus : à droite, les lignes retirées en rouge, les lignes ajoutées en
 vert. Pour un notebook, c'est long et peu lisible, vous avez vu pourquoi au
-notebook 2 : ce n'est pas un problème.
+notebook 2 du chapitre 2 : ce n'est pas un problème.
 
 1. En bas à gauche, dans le champ `Summary`, écrivez le message du commit :
    `Renseigne mon nom et mon matricule`. Un message dit ce que le commit fait,
@@ -171,6 +171,10 @@ dans le dépôt. Le notebook les retélécharge.
 - [ ] `notebook.ipynb` est ouvert dans Colab, avec mon nom et mon matricule.
 - [ ] Sur github.com, l'onglet `Commits` montre « Renseigne mon nom et mon
       matricule ».
+
+**La suite** : en fin de séance, l'[atelier de démarrage](README.md) vous fait
+écrire les premières cellules du devoir dans ce dépôt, avec le chapitre 3 en
+main.
 
 ---
 
