@@ -29,7 +29,7 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 ---
 
-### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, ven 13/11 matin, puis séance 2, ven 27/11 matin pour 2.5 à 2.8)*
+### Chapitre 2 – Reproductibilité et développement professionnel *(séance 1, ven 13/11 matin, puis séance 2, ven 27/11 matin pour 2.5 à 2.7)*
 
 #### 2.1. Organisation d’un projet de Data Science
 
@@ -41,13 +41,11 @@ Les chapitres sont numérotés dans l'ordre des séances, et chacun porte la sé
 
 #### 2.5. Git et GitHub
 
-#### 2.6. Le cycle de travail du devoir : Colab exécute, GitHub Desktop enregistre
+#### 2.6. Le cycle de travail avec un notebook : Colab exécute, GitHub Desktop enregistre
 
-#### 2.7. Rendre un devoir sur GitHub
+Suivi en séance du tutoriel du devoir 1 (`devoirs/devoir-1-preparation/tutoriel.md`, 45 minutes), qui couvre aussi les modalités de remise.
 
-Suivi en séance du tutoriel du devoir 1 (`devoirs/devoir-1-preparation/tutoriel.md`, 45 minutes).
-
-#### 2.8. Pour aller plus loin : branches, pull requests, et le dossier `students/`
+#### 2.7. Pour aller plus loin : branches, pull requests, et le dossier `students/`
 
 ---
 
