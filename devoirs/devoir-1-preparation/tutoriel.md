@@ -170,7 +170,7 @@ dans le dépôt. Le notebook les retélécharge.
 - [ ] Sur github.com, l'onglet `Commits` montre « Renseigne mon nom et mon
       matricule ».
 
-**La suite** : en fin de séance, 35 minutes pour démarrer le devoir dans ce
+**La suite** : en fin de séance, 50 minutes pour démarrer le devoir dans ce
 même notebook, l'[énoncé](enonce.md) sous les yeux : la partie 1, puis un
 commit.
 

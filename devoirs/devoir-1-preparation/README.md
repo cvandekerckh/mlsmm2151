@@ -9,7 +9,7 @@ rencontrerez :
 | Étape | Quoi | Quand | Durée | Ouvrir |
 |---|---|---|---|---|
 | 1 | **Tutoriel** : installer GitHub Desktop, cloner votre dépôt, pousser votre premier commit | Séance 2, après le notebook 2 du chapitre 2 | 45 min | [Lire](tutoriel.md) |
-| 2 | **Énoncé** : les cinq parties du devoir et la checklist de remise. La partie 1 se fait en séance | Séance 2, les 35 dernières minutes | | [Lire](enonce.md) |
+| 2 | **Énoncé** : les cinq parties du devoir et la checklist de remise. La partie 1 se fait en séance | Séance 2, les 50 dernières minutes | | [Lire](enonce.md) |
 | 3 | **Grille de correction** : ce qui rapporte des points, et ce qui en coûte | Avant de rendre | | [Lire](grille.md) |
 
 Le devoir est **un seul notebook**, `notebook.ipynb`, le même pour tout le

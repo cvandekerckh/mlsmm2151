@@ -5,7 +5,7 @@
 
 Règles communes, garde-fous IA et modalités de remise :
 [`../README.md`](../README.md). Le cycle de travail (Colab, puis GitHub
-Desktop) est dans le [tutoriel](tutoriel.md). Les 35 dernières minutes de la
+Desktop) est dans le [tutoriel](tutoriel.md). Les 50 dernières minutes de la
 séance 2 sont réservées à la partie 1, en séance.
 
 ---
