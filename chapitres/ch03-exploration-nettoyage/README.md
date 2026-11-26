@@ -8,10 +8,10 @@ Diagnostiquer un jeu de données réel et le rendre exploitable, sans le trahir.
 
 | # | Notebook | Durée | Ouvrir |
 |---|---|---|---|
-| 1 | Analyse exploratoire et contrôle qualité | 20 min | *bientôt disponible, le 27/11* |
-| 2 | Manquants, doublons, valeurs aberrantes | 20 min | *bientôt disponible, le 27/11* |
-| 3 | Variables temporelles | 15 min | *bientôt disponible, le 27/11* |
-| 4 | Démarrer le devoir 1 | 35 min | *bientôt disponible, le 27/11* |
+| 1 | Analyse exploratoire et contrôle qualité | 20 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/01-analyse-exploratoire-et-qualite.ipynb) |
+| 2 | Manquants, doublons, valeurs aberrantes | 20 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/02-manquants-doublons-aberrantes.ipynb) |
+| 3 | Variables temporelles | 15 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/03-variables-temporelles.ipynb) |
+| 4 | Démarrer le devoir 1 | 35 min | [Colab](https://colab.research.google.com/github/cvandekerckh/mlsmm2151/blob/main/chapitres/ch03-exploration-nettoyage/04-demarrer-le-devoir-1.ipynb) |
 
 Le notebook 4 se fait dans votre dépôt de devoir, ouvert dans un second onglet : il donne les consignes et montre chaque geste sur les données Airbnb.
 
