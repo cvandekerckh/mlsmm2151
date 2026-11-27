@@ -2,3 +2,5 @@
 
 Notes collectives de la seconde séance, reprises et structurées depuis le
 [pad Framapad](https://mensuel.framapad.org/p/9pdq9tko4a-aow9?lang=fr).
+
+Chapitre vus : 2 et 3
