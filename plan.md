@@ -71,39 +71,66 @@ Les 50 dernières minutes de la séance : démarrage du devoir 1 dans le noteboo
 
 ---
 
-### Chapitre 4 – Transformation et ingénierie des variables *(séance 3, mar 01/12 après-midi)*
-
-#### 4.1. Encodage des variables catégorielles
-
-#### 4.2. Standardisation et normalisation
-
-#### 4.3. Création de variables (Feature Engineering)
-
-#### 4.4. Agrégations et variables dérivées
-
-#### 4.5. Sélection de variables
-
-#### 4.6. Pipelines de prétraitement avec Scikit-Learn
-
----
-
 ---
 
 ## Partie III – Apprentissage supervisé
 
-### Chapitre 5 – Fondements de la modélisation supervisée *(séance 3, mar 01/12 après-midi)*
+### Chapitre 4 – Fondements du supervisé et validation *(séance 3, mar 01/12 après-midi)*
 
-#### 5.1. Variables explicatives et variable cible
+Le modèle y est une simple régression linéaire, utilisée sans l'ouvrir : on
+apprend d'abord à juger un résultat, les modèles s'ouvrent au chapitre 6.
 
-#### 5.2. Constitution des ensembles d'entraînement, validation et test
+#### 4.1. La cible et les variables
 
-#### 5.3. Construction d’une baseline
+#### 4.2. La baseline et un premier modèle
 
-#### 5.4. Sous-apprentissage et surapprentissage
+#### 4.3. Apprendre par cœur : sous-apprentissage et surapprentissage
 
-#### 5.5. Fuites de données (Data Leakage)
+#### 4.4. Le compromis biais-variance
 
-#### 5.6. Pipeline complet de modélisation
+#### 4.5. Découper avant d'apprendre
+
+#### 4.6. Deux erreurs à comparer
+
+#### 4.7. La limite d'un seul découpage
+
+#### 4.8. La validation croisée (Cross Validation)
+
+#### 4.9. Les variantes : K blocs, leave-one-out, stratifiée, temporelle
+
+#### 4.10. Le test, une seule fois
+
+#### 4.11. Les fuites de données (Data Leakage)
+
+#### 4.12. Deux erreurs, trois diagnostics
+
+---
+
+### Chapitre 5 – Évaluation des modèles *(séance 3, mar 01/12 après-midi)*
+
+#### 5.1. Un nombre ou une classe : deux familles de métriques
+
+#### 5.2. Trois métriques de régression
+
+* Mean Absolute Error (MAE)
+* Root Mean Squared Error (RMSE)
+* Coefficient de détermination (R²)
+
+#### 5.3. Lire les erreurs : où le modèle se trompe-t-il ?
+
+#### 5.4. L'accuracy et son piège : le déséquilibre des classes
+
+#### 5.5. Matrice de confusion, précision et rappel
+
+#### 5.6. Le F-score
+
+#### 5.7. Seuil de décision et compromis entre erreurs
+
+#### 5.8. La courbe ROC (Receiver Operating Characteristic) et l'AUC (Area Under the Curve)
+
+#### 5.9. Choisir la métrique avant le modèle
+
+Le reste de la séance : lancement du devoir 2.
 
 ---
 
@@ -123,70 +150,47 @@ Les 50 dernières minutes de la séance : démarrage du devoir 1 dans le noteboo
 
 #### 6.5. Interprétation des modèles linéaires et des arbres
 
-* Hack-time de retour sur le chapitre 4 : mesurer le gain d'une variable
-  créée au notebook « Créer et sélectionner des variables » (même modèle,
-  avec et sans elle). L'hypothèse vérifiée à l'œil devient une mesure.
+---
+
+### Chapitre 7 – Transformation et ingénierie des variables *(séance 4, mar 15/12 matin)*
+
+#### 7.1. Encodage des variables catégorielles
+
+#### 7.2. Standardisation et normalisation
+
+#### 7.3. Création de variables (Feature Engineering)
+
+#### 7.4. Agrégations et variables dérivées
+
+#### 7.5. Sélection de variables
+
+#### 7.6. Pipelines de prétraitement avec Scikit-Learn
+
+* Mesurer ce qu'une transformation apporte : même modèle, avec et sans elle,
+  en validation croisée (chapitre 4). L'hypothèse vérifiée à l'œil devient
+  une mesure.
 
 ---
 
-### Chapitre 7 – Évaluation des modèles *(séance 4, mar 15/12 matin)*
+### Chapitre 8 – Optimisation des hyperparamètres et déséquilibre de classes *(séance 5, mar 15/12 après-midi)*
 
-#### 7.1. Pourquoi évaluer un modèle ?
+La validation croisée (sections 4.7 à 4.9) est supposée acquise.
 
-#### 7.2. Métriques pour les problèmes de régression
+#### 8.1. Paramètres et hyperparamètres
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* Root Mean Squared Error (RMSE)
-* Coefficient de détermination (R²)
+#### 8.2. Recherche d'hyperparamètres
 
-#### 7.3. Métriques pour les problèmes de classification
+* Recherche sur grille (`GridSearchCV`)
+* Recherche aléatoire (`RandomizedSearchCV`)
 
-* Matrice de confusion
-* Accuracy
-* Precision
-* Recall
-* F1-score
+#### 8.3. Le piège : choisir et évaluer sur les mêmes données
 
-#### 7.4. Courbes et métriques de performance
+#### 8.4. Gestion du déséquilibre des classes
 
-* Courbe ROC et AUC
-* Courbe Precision-Recall
-
-#### 7.5. Évaluation des prédictions probabilistes
-
-* Log Loss
-* Brier Score
-* Calibration des probabilités
-
-#### 7.6. Seuils de décision et compromis entre erreurs
-
-#### 7.7. Choix des métriques en fonction du problème
-
----
-
-### Chapitre 8 – Validation et sélection de modèles *(séance 5, mar 15/12 après-midi)*
-
-#### 8.1. Hold-out Validation
-
-#### 8.2. Validation croisée (Cross Validation)
-
-#### 8.3. Recherche d’hyperparamètres
-
-* Grid Search
-* Random Search
-
-#### 8.4. Validation temporelle et Backtesting
-
-* Rolling Window
-* Expanding Window
-* Walk-Forward Validation
-
-#### 8.5. Gestion du déséquilibre des classes
-
-#### 8.6. Comparaison et sélection de modèles
-
----
+* Pondération des classes (`class_weight`)
+* Rééchantillonnage
+* Choix du seuil de décision
+* Validation croisée stratifiée (`StratifiedKFold`)
 
 ---
 
@@ -248,24 +252,36 @@ Les 50 dernières minutes de la séance : démarrage du devoir 1 dans le noteboo
 
 ## Note sur l'ordre des chapitres
 
-**Les modèles supervisés avancés (KNN, SVM, réseaux de neurones) ont été
-retirés du cours** en novembre 2026, pour redonner du temps aux chapitres qui
-précèdent. Les chapitres suivants ont été renumérotés.
+**Le cours a été resserré en novembre et décembre 2026**, pour tenir en six
+séances sans les surcharger. Ont été retirés : les modèles supervisés avancés
+(KNN, SVM, réseaux de neurones), la validation temporelle et le backtesting, ainsi que les courbes ROC et
+précision-rappel et l'évaluation des probabilités. La validation croisée a
+rejoint l'évaluation des modèles (chapitre 5) ; la recherche d'hyperparamètres
+et le déséquilibre de classes forment le chapitre 8. Les chapitres ont été
+renumérotés dans l'ordre des séances.
 
-Par rapport à un découpage académique classique, deux déplacements ont été faits
-pour que l'ordre d'enseignement soit pédagogiquement tenable.
+L'ordre d'enseignement suit une logique : le cadre d'abord, les modèles
+ensuite, les variables après.
 
-**L'évaluation (chapitre 7) vient après les premiers modèles (chapitre 6).** On
-ne peut pas expliquer utilement une matrice de confusion ou une courbe ROC à
-quelqu'un qui n'a jamais entraîné de modèle. La séance 3 entraîne donc des
-modèles avec une seule métrique provisoire, présentée explicitement comme
-insuffisante, et la séance 4 est entièrement consacrée à démontrer pourquoi elle
-l'était.
+**Le cadre (chapitres 4 et 5) vient avant les modèles (chapitre 6).** À la
+séance 3, on apprend à découper, à comparer à une baseline, à valider et à
+évaluer, avec les modèles les plus simples, une régression linéaire puis une
+régression logistique, utilisés sans les ouvrir. Ce choix a un prix : on
+juge un modèle dont on ne sait pas encore comment il apprend. En échange,
+quand les modèles s'ouvrent à la séance 4, chacun est jugé correctement dès sa
+première apparition, et le devoir 2 peut démarrer le 1er décembre.
 
-**La validation (chapitre 8) vient avant l'ensemble learning (chapitre 9).**
-Régler `n_estimators`, `max_depth` ou `learning_rate` n'a aucun sens sans
-validation croisée ni recherche d'hyperparamètres. Les voir dans l'autre ordre
-oblige à faire semblant pendant une séance entière.
+**La transformation des variables (chapitre 7) vient après les premiers
+modèles.** Encoder, mettre à l'échelle ou créer une variable ne se justifie
+que par ce que le modèle y gagne. Placé après les chapitres 4 à 6, ce chapitre
+soigne les variables en mesurant ce que chaque transformation apporte, au lieu
+de s'en remettre à une vérification à l'œil.
+
+**La recherche d'hyperparamètres (chapitre 8) vient juste avant l'ensemble
+learning (chapitre 9).** Régler `n_estimators`, `max_depth` ou `learning_rate`
+n'a aucun sens sans validation croisée (chapitre 4) ni méthode de recherche.
+Les voir dans l'autre ordre oblige à faire semblant pendant une séance
+entière.
 
 Le chapitre 2 gagne par ailleurs une section 2.4 sur le stockage des données,
 absente du plan initial : elle porte une habitude professionnelle que le cours

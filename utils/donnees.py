@@ -53,9 +53,9 @@ SOURCES = {
 }
 
 DESCRIPTIONS = {
-    "airbnb_raw": "Airbnb Bruxelles, données brutes (chapitres 1 à 4)",
-    "airbnb_train": "Airbnb Bruxelles, table de modélisation, 80 % (chapitres 5 à 12)",
-    "airbnb_test": "Airbnb Bruxelles, table de modélisation, 20 % (chapitres 5 à 12)",
+    "airbnb_raw": "Airbnb Bruxelles, données brutes (chapitres 1 à 3 et 7)",
+    "airbnb_train": "Airbnb Bruxelles, table de modélisation, 80 % (chapitres 4 à 11)",
+    "airbnb_test": "Airbnb Bruxelles, table de modélisation, 20 % (chapitres 4 à 11)",
     "devoir1": "Devoir 1 : Online Retail II, transactions e-commerce",
     "devoir2": "Devoir 2 : Bank Marketing, classification déséquilibrée",
     "devoir3": "Devoir 3 : Default of Credit Card Clients, segmentation",

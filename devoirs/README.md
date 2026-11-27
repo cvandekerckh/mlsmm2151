@@ -13,8 +13,11 @@ Les pondérations suivent l'ampleur : D2 couvre six chapitres, D3 en couvre deux
 
 > **À propos du D2 et du calendrier.** Les chapitres 4 et 5 sont vus le
 > 1er décembre, les chapitres 6 à 9 le 15 décembre, et le D2 est dû le
-> 4 janvier. Les parties 1 et 2 sont faisables dès le 1er décembre ; le reste
-> dépend du 15 décembre, et l'énoncé le signale question par question.
+> 4 janvier. Dès le 1er décembre, avec un modèle simple, vous pouvez cadrer,
+> découper, poser la baseline, valider, évaluer et choisir un seuil ; le
+> pipeline de prétraitement, la comparaison des familles de modèles, le
+> réglage des hyperparamètres et le traitement du déséquilibre
+> dépendent du 15 décembre, et l'énoncé le signale partie par partie.
 > Commencez le 1er décembre, pas le 16.
 
 ---

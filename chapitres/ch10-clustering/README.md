@@ -17,7 +17,7 @@ Trouver des groupes sans savoir ce qu'on cherche, et surtout : décider si le r�
 
 ## Prérequis
 
-Chapitres 3 et 4.
+Chapitres 3 et 7.
 
 ## Pont avec Data Analytics
 

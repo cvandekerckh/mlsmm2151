@@ -17,7 +17,7 @@ Combiner plusieurs modèles médiocres pour en obtenir un bon. C'est ce qui gagn
 
 ## Prérequis
 
-Chapitres 6 à 8.
+Chapitres 4 à 6 et 8.
 
 ## Pont avec Data Analytics
 

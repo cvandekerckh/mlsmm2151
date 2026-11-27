@@ -73,17 +73,18 @@ reflète l'importance à l'examen, pas le temps passé en séance.
 | Ch1 Le projet fil rouge | ● | Paradigmes, régression contre classification, les deux questions du fil rouge |
 | Ch2 Reproductibilité | ● | Reproductibilité, où vivent les données et pourquoi |
 | Ch3 Exploration et nettoyage | ●● | Diagnostic de qualité, manquants, aberrantes, et surtout **le raisonnement** derrière chaque traitement |
-| Ch4 Transformation | ●● | Encodage, mise à l'échelle, pipelines, pourquoi le pipeline évite une fuite |
-| Ch5 Fondements supervisés | ●●● | Découpage, baseline, surapprentissage, **fuites de données** |
+| **Ch4 Fondements et validation** | ●●●● | Baseline, sous- et surapprentissage, compromis biais-variance, découpage, validation croisée et ses variantes, test ouvert une seule fois, **fuites de données** |
+| **Ch5 Évaluation** | ●●●● | **Le chapitre le plus important.** MAE, RMSE, R², résidus ; accuracy et déséquilibre des classes, matrice de confusion, précision, rappel, F-score, seuil de décision, courbe ROC et AUC, choix de la métrique |
 | Ch6 Linéaires et arbres | ●● | Quand utiliser quoi, régularisation, interprétation des coefficients |
-| **Ch7 Évaluation** | ●●●● | **Le chapitre le plus important.** Métriques, matrice de confusion, ROC contre précision-rappel, seuils de décision, choix de la métrique |
-| **Ch8 Validation** | ●●●● | Validation croisée, hyperparamètres, déséquilibre des classes, validation temporelle |
+| Ch7 Transformation | ●● | Encodage, mise à l'échelle, pipelines, pourquoi le pipeline évite une fuite |
+| Ch8 Hyperparamètres et déséquilibre | ●● | Recherche sur grille ou aléatoire, pourquoi ne pas régler sur le test, stratégies face au déséquilibre des classes |
 | Ch9 Ensemble learning | ●● | Bagging contre boosting, ce que chacun corrige |
 | Ch10 Clustering | ●● | Choix du nombre de clusters, évaluation d'une segmentation, K-Means contre DBSCAN |
 | Ch11 Réduction de dimension | ●● | À quoi sert la PCA, comment interpréter des composantes |
 
-Les chapitres 7 et 8 pèsent à eux deux environ un tiers de l'examen. C'est
-délibéré, et c'est la raison pour laquelle ils occupent une séance entière.
+Les chapitres 4 et 5 pèsent à eux deux environ un tiers de l'examen. C'est
+délibéré, et c'est la raison pour laquelle ils occupent, ensemble, toute la
+séance 3.
 
 ---
 

@@ -83,14 +83,14 @@ location courte durée à Bruxelles. Deux questions reviennent sans cesse :
 
 | Nom | Lignes | Contenu | Utilisé aux chapitres |
 |---|---|---|---|
-| `airbnb_raw` | 6 721 | Données brutes, telles qu'Inside Airbnb les publie. Sales : prix en `$97.00`, dates en texte, booléens en `t`/`f`, valeurs manquantes, colonnes vides, valeurs aberrantes | 0 à 4 |
-| `airbnb_train` | 4 443 | Table de modélisation nettoyée, 80 % | 5 à 12 |
-| `airbnb_test` | 1 110 | Table de modélisation nettoyée, 20 % | 5 à 12 |
+| `airbnb_raw` | 6 721 | Données brutes, telles qu'Inside Airbnb les publie. Sales : prix en `$97.00`, dates en texte, booléens en `t`/`f`, valeurs manquantes, colonnes vides, valeurs aberrantes | 1 à 3 et 7 |
+| `airbnb_train` | 4 443 | Table de modélisation nettoyée, 80 % | 4 à 11 |
+| `airbnb_test` | 1 110 | Table de modélisation nettoyée, 20 % | 4 à 11 |
 
 Les tables de modélisation existent pour une raison précise : à partir du
-chapitre 5, on veut travailler la modélisation sans que le résultat dépende de
+chapitre 4, on veut travailler la modélisation sans que le résultat dépende de
 la qualité du nettoyage que chacun a fait au chapitre 3. Le nettoyage appliqué
-est exactement celui que vous reconstruisez vous-mêmes aux chapitres 3 et 4, et
+est exactement celui que vous reconstruisez vous-mêmes aux chapitres 3 et 7, et
 il est lisible dans `airbnb_bruxelles/fetch_airbnb_bruxelles.py`.
 
 Elles ne sont pas parfaitement propres pour autant : il reste des valeurs

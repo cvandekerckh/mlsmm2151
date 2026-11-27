@@ -15,16 +15,16 @@ Inside Airbnb republie ses données chaque trimestre et l'ancienne URL disparaî
 Le snapshot est donc figé à une date précise pour que le cours reste reproductible
 d'une année sur l'autre. Le scrape du 27 juin 2026 a été écarté : plusieurs
 colonnes y sont vides à 100 % (host_since, host_response_time, instant_bookable),
-ce qui détruit les exemples des chapitres 3 et 4.
+ce qui détruit les exemples des chapitres 3 et 7.
 
 Trois fichiers sont produits :
 
   airbnb_bruxelles_raw.csv    Données brutes, volontairement sales.
-                              Utilisé aux chapitres 1 à 4 (exploration, nettoyage).
+                              Utilisé aux chapitres 1 à 3 et 7 (exploration, nettoyage).
 
   airbnb_bruxelles_train.csv  Table de modélisation propre, 80 %.
   airbnb_bruxelles_test.csv   Table de modélisation propre, 20 %.
-                              Utilisées aux chapitres 5 à 12. Elles existent pour
+                              Utilisées aux chapitres 4 à 11. Elles existent pour
                               que la modélisation ne dépende pas de la qualité du
                               nettoyage fait par chaque étudiant au chapitre 3.
 
@@ -141,10 +141,10 @@ def _nb_equipements(serie: pd.Series) -> pd.Series:
 
 
 def construire_modelisation(brut: pd.DataFrame) -> pd.DataFrame:
-    """Table propre pour les chapitres 5 à 12.
+    """Table propre pour les chapitres 4 à 11.
 
     Le nettoyage appliqué ici est exactement celui que les étudiants
-    reconstruisent eux-mêmes aux chapitres 3 et 4.
+    reconstruisent eux-mêmes aux chapitres 3 et 7.
     """
     df = brut.copy()
 
@@ -211,7 +211,7 @@ def construire_modelisation(brut: pd.DataFrame) -> pd.DataFrame:
         "latitude",
         "longitude",
         # Conservée volontairement : elle vaut à peu près prix × occupation et sert
-        # d'exemple de fuite de données au chapitre 5.
+        # d'exemple de fuite de données au chapitre 4.
         "estimated_revenue_l365d",
     ]
     return df[colonnes_finales].sort_values("id").reset_index(drop=True)

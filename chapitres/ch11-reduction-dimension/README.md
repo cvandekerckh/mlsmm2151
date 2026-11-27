@@ -17,7 +17,7 @@ Résumer beaucoup de variables en peu, pour visualiser, compresser, ou simplifie
 
 ## Prérequis
 
-Chapitres 4, 7 et 11.
+Chapitres 5, 7 et 10.
 
 ## Pont avec Data Analytics
 

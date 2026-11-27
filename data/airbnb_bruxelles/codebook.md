@@ -10,10 +10,10 @@ Comment charger ces fichiers : voir [`../README.md`](../README.md).
 
 ## `airbnb_raw` : les données brutes
 
-6 721 lignes, 38 colonnes. **Chapitres 1 à 4.**
+6 721 lignes, 38 colonnes. **Chapitres 1 à 3 et 7.**
 
 Ce fichier est volontairement sale. C'est la matière première des chapitres 3 et
-4 : les problèmes ci-dessous sont à repérer et à traiter, pas à subir.
+7 : les problèmes ci-dessous sont à repérer et à traiter, pas à subir.
 
 | Colonne | Type | Manquant | Exemple | Description et piège |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ Ce fichier est volontairement sale. C'est la matière première des chapitres 3 
 
 ## `airbnb_train` et `airbnb_test` : les tables de modélisation
 
-4 443 et 1 110 lignes, 32 colonnes. **Chapitres 5 à 12.**
+4 443 et 1 110 lignes, 32 colonnes. **Chapitres 4 à 11.**
 
 Découpage 80 / 20 stratifié sur `y_superhost`, avec une graine fixe. Aucune
 annonce n'apparaît dans les deux fichiers.
@@ -108,8 +108,8 @@ colonnes liées à l'hôte. Elles ne sont **pas** imputées dans le fichier.
 C'est un choix pédagogique important : imputer une fois pour toutes avant de
 découper, c'est calculer une moyenne sur des lignes de test et la réinjecter
 dans l'entraînement. C'est une fuite de données. L'imputation doit vivre dans un
-`Pipeline` scikit-learn, apprise sur l'entraînement uniquement. C'est l'objet du
-chapitre 5.
+`Pipeline` scikit-learn, apprise sur l'entraînement uniquement. La fuite est l'objet du
+chapitre 4, le `Pipeline` celui du chapitre 7.
 
 ### Avertissement : `estimated_revenue_l365d` est une fuite de données
 
@@ -120,7 +120,7 @@ contient donc la cible `y_price`. Un modèle qui l'utilise pour prédire le prix
 aura d'excellents scores et sera parfaitement inutile : le jour où vous mettez
 une nouvelle annonce en ligne, son revenu annuel n'existe pas encore.
 
-Elle sert d'exemple de fuite de données au chapitre 5. Notez que l'argument est
+Elle sert d'exemple de fuite de données au chapitre 4. Notez que l'argument est
 **définitionnel, pas statistique** : sa corrélation avec `y_price` n'est que de
 0,36, donc aucune inspection des corrélations ne l'aurait signalée. C'est en
 lisant la documentation qu'on la repère. C'est exactement pour cela qu'on lit

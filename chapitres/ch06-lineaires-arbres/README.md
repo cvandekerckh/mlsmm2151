@@ -16,7 +16,7 @@ Les premiers modèles, choisis pour être interprétables : on peut lire ce qu'i
 
 ## Prérequis
 
-Chapitre 5.
+Chapitres 4 et 5.
 
 ## Pont avec Data Analytics
 
