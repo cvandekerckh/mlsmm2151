@@ -9,3 +9,4 @@ Chapitre vus : 2 et 3
 
 - les noms de branches se font en minuscules avec des tirets
 - les pull requests permettent de merger en demandant l'avis des autres
+- github desktop permet de faire les mêmes choses que sur le terminal
