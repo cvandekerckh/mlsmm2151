@@ -8,3 +8,4 @@ Chapitre vus : 2 et 3
 ## Section github
 
 - les noms de branches se font en minuscules avec des tirets
+- les pull requests permettent de merger en demandant l'avis des autres
