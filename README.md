@@ -201,6 +201,7 @@ questions posées, commandes utiles, points restés obscurs.
 Les pads de cette année :
 
 - **Séance 1** (ven 13/11) : https://mensuel.framapad.org/p/3d1ffi6mcy-aomx?lang=fr
+- **Séance 2** (ven 27/11) : https://mensuel.framapad.org/p/9pdq9tko4a-aow9?lang=fr
 
 Le dossier `students/` est le seul que vous pouvez modifier dans ce dépôt, et
 vous l'organisez comme vous voulez : notes, exercices, scripts à partager. Le
