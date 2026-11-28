@@ -26,5 +26,5 @@ Voir le [chapitre 3 de `plan.md`](../../plan.md).
 
 ## Corrigés
 
-Les corrigés des hack-times sont dans `corriges/` *(bientôt disponible, le 28/11)*, publiés
+Les corrigés des hack-times sont dans [`corriges/`](corriges/), publiés
 après la séance.
